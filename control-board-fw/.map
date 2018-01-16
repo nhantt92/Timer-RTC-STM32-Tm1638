@@ -1,0 +1,1798 @@
+Archive member included to satisfy reference by file (symbol)
+
+e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(gpio.o)
+                              build/src/cdcacm.o (gpio_set_mode)
+e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(rcc.o)
+                              build/src/main.o (rcc_clock_setup_in_hse_8mhz_out_72mhz)
+e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(gpio_common_all.o)
+                              build/src/cdcacm.o (gpio_set)
+e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(iwdg_common_all.o)
+                              build/src/main.o (iwdg_start)
+e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(rcc_common_all.o)
+                              build/src/main.o (rcc_periph_clock_enable)
+e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(flash_common_f01.o)
+                              e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(rcc.o) (flash_set_ws)
+e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(usb.o)
+                              build/src/cdcacm.o (usbd_init)
+e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(usb_control.o)
+                              build/src/cdcacm.o (usbd_register_control_callback)
+e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(usb_standard.o)
+                              build/src/cdcacm.o (usbd_register_set_config_callback)
+e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(st_usbfs_v1.o)
+                              build/src/cdcacm.o (st_usbfs_v1_usb_driver)
+e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(vector.o)
+                              (reset_handler)
+e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(systick.o)
+                              build/src/tick.o (systick_set_reload)
+e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(scb.o)
+                              build/src/utils.o (scb_reset_system)
+e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(nvic.o)
+                              build/src/cdcacm.o (nvic_enable_irq)
+e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(assert.o)
+                              e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(rcc.o) (cm3_assert_failed)
+e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(flash.o)
+                              e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(flash_common_f01.o) (flash_get_status_flags)
+e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(st_usbfs_core.o)
+                              e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(st_usbfs_v1.o) (st_usbfs_set_address)
+c:/program files (x86)/gnu tools arm embedded/5.3 2016q1/bin/../lib/gcc/arm-none-eabi/5.3.1/../../../../arm-none-eabi/lib/armv7-m\libc.a(lib_a-errno.o)
+                              build/src/main.o (__errno)
+c:/program files (x86)/gnu tools arm embedded/5.3 2016q1/bin/../lib/gcc/arm-none-eabi/5.3.1/../../../../arm-none-eabi/lib/armv7-m\libc.a(lib_a-impure.o)
+                              c:/program files (x86)/gnu tools arm embedded/5.3 2016q1/bin/../lib/gcc/arm-none-eabi/5.3.1/../../../../arm-none-eabi/lib/armv7-m\libc.a(lib_a-errno.o) (_impure_ptr)
+c:/program files (x86)/gnu tools arm embedded/5.3 2016q1/bin/../lib/gcc/arm-none-eabi/5.3.1/../../../../arm-none-eabi/lib/armv7-m\libc.a(lib_a-memcpy.o)
+                              e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(usb_standard.o) (memcpy)
+c:/program files (x86)/gnu tools arm embedded/5.3 2016q1/bin/../lib/gcc/arm-none-eabi/5.3.1/../../../../arm-none-eabi/lib/armv7-m\libc.a(lib_a-strlen-stub.o)
+                              build/src/cdcacm.o (strlen)
+
+Discarded input sections
+
+ .text          0x00000000        0x0 build/src/cdcacm.o
+ .data          0x00000000        0x0 build/src/cdcacm.o
+ .bss           0x00000000        0x0 build/src/cdcacm.o
+ .bss._cdcacm_receive_callback
+                0x00000000        0x4 build/src/cdcacm.o
+ .text.cdcacm_set_modem_state
+                0x00000000       0x80 build/src/cdcacm.o
+ .text.cdcacm_send
+                0x00000000       0x30 build/src/cdcacm.o
+ .text.cdcacm_rx_callback
+                0x00000000       0x1c build/src/cdcacm.o
+ .text.cdcacm_info
+                0x00000000       0x48 build/src/cdcacm.o
+ .text          0x00000000        0x0 build/src/main.o
+ .data          0x00000000        0x0 build/src/main.o
+ .bss           0x00000000        0x0 build/src/main.o
+ .text._write   0x00000000       0x68 build/src/main.o
+ .text          0x00000000        0x0 build/src/ringbuf.o
+ .data          0x00000000        0x0 build/src/ringbuf.o
+ .bss           0x00000000        0x0 build/src/ringbuf.o
+ .text          0x00000000        0x0 build/src/tick.o
+ .data          0x00000000        0x0 build/src/tick.o
+ .bss           0x00000000        0x0 build/src/tick.o
+ .text.tick_get_tick
+                0x00000000       0x10 build/src/tick.o
+ .text.tick_delta_time_tick
+                0x00000000       0x40 build/src/tick.o
+ .text.tick_wait_us
+                0x00000000       0x2c build/src/tick.o
+ .text.tick_expire_us
+                0x00000000       0x4c build/src/tick.o
+ .text          0x00000000        0x0 build/src/tm1638.o
+ .data          0x00000000        0x0 build/src/tm1638.o
+ .bss           0x00000000        0x0 build/src/tm1638.o
+ .rodata.NUMBER_FONT
+                0x00000000       0x10 build/src/tm1638.o
+ .rodata.ERROR_DATA
+                0x00000000        0x8 build/src/tm1638.o
+ .bss.tm1638    0x00000000       0x10 build/src/tm1638.o
+ .text.TM1638_Init
+                0x00000000       0xf8 build/src/tm1638.o
+ .text.writeByte
+                0x00000000       0x78 build/src/tm1638.o
+ .text.readByte
+                0x00000000       0x74 build/src/tm1638.o
+ .text.writeCmd
+                0x00000000       0x40 build/src/tm1638.o
+ .text.writeData
+                0x00000000       0x34 build/src/tm1638.o
+ .text.sendChar
+                0x00000000       0x40 build/src/tm1638.o
+ .text.configDisplay
+                0x00000000       0x8c build/src/tm1638.o
+ .text.setDisplayDigit
+                0x00000000       0x34 build/src/tm1638.o
+ .text.clearDisplayDigit
+                0x00000000       0x24 build/src/tm1638.o
+ .text.setDisplay
+                0x00000000       0x40 build/src/tm1638.o
+ .text.clearDisplay
+                0x00000000       0x34 build/src/tm1638.o
+ .text.displayNumber
+                0x00000000       0x2c build/src/tm1638.o
+ .text.setLed   0x00000000       0x2c build/src/tm1638.o
+ .text.getKey   0x00000000       0x8c build/src/tm1638.o
+ .debug_info    0x00000000      0x4a6 build/src/tm1638.o
+ .debug_abbrev  0x00000000      0x12a build/src/tm1638.o
+ .debug_aranges
+                0x00000000       0x88 build/src/tm1638.o
+ .debug_ranges  0x00000000       0x78 build/src/tm1638.o
+ .debug_line    0x00000000      0x31f build/src/tm1638.o
+ .debug_str     0x00000000      0x317 build/src/tm1638.o
+ .comment       0x00000000       0x6f build/src/tm1638.o
+ .debug_frame   0x00000000      0x208 build/src/tm1638.o
+ .ARM.attributes
+                0x00000000       0x33 build/src/tm1638.o
+ .text          0x00000000        0x0 build/src/utils.o
+ .data          0x00000000        0x0 build/src/utils.o
+ .bss           0x00000000        0x0 build/src/utils.o
+ .text.delay    0x00000000       0x24 build/src/utils.o
+ .rodata        0x00000000       0x11 build/src/utils.o
+ .data.hexdigits
+                0x00000000        0x4 build/src/utils.o
+ .text.uint32hex
+                0x00000000       0x50 build/src/utils.o
+ .text.data2hex
+                0x00000000       0x80 build/src/utils.o
+ .text.readprotobufint
+                0x00000000       0xd4 build/src/utils.o
+ .text.system_halt
+                0x00000000        0x8 build/src/utils.o
+ .text.system_reset
+                0x00000000        0x8 build/src/utils.o
+ .debug_info    0x00000000      0x1f3 build/src/utils.o
+ .debug_abbrev  0x00000000       0xf4 build/src/utils.o
+ .debug_aranges
+                0x00000000       0x48 build/src/utils.o
+ .debug_ranges  0x00000000       0x38 build/src/utils.o
+ .debug_line    0x00000000      0x1a2 build/src/utils.o
+ .debug_str     0x00000000      0x20f build/src/utils.o
+ .comment       0x00000000       0x6f build/src/utils.o
+ .debug_frame   0x00000000       0xe4 build/src/utils.o
+ .ARM.attributes
+                0x00000000       0x33 build/src/utils.o
+ .group         0x00000000        0x8 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(gpio.o)
+ .group         0x00000000        0x8 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(gpio.o)
+ .group         0x00000000        0x8 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(gpio.o)
+ .group         0x00000000        0x8 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(gpio.o)
+ .group         0x00000000        0x8 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(gpio.o)
+ .group         0x00000000        0x8 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(gpio.o)
+ .group         0x00000000        0x8 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(gpio.o)
+ .group         0x00000000        0x8 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(gpio.o)
+ .group         0x00000000        0x8 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(gpio.o)
+ .group         0x00000000        0x8 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(gpio.o)
+ .group         0x00000000        0x8 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(gpio.o)
+ .group         0x00000000        0x8 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(gpio.o)
+ .group         0x00000000        0x8 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(gpio.o)
+ .text          0x00000000        0x0 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(gpio.o)
+ .data          0x00000000        0x0 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(gpio.o)
+ .bss           0x00000000        0x0 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(gpio.o)
+ .text.gpio_set_eventout
+                0x00000000       0x10 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(gpio.o)
+ .text.gpio_secondary_remap
+                0x00000000       0x10 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(gpio.o)
+ .group         0x00000000        0x8 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(rcc.o)
+ .group         0x00000000        0x8 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(rcc.o)
+ .group         0x00000000        0x8 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(rcc.o)
+ .group         0x00000000        0x8 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(rcc.o)
+ .group         0x00000000        0x8 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(rcc.o)
+ .group         0x00000000        0x8 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(rcc.o)
+ .group         0x00000000        0x8 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(rcc.o)
+ .group         0x00000000        0x8 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(rcc.o)
+ .group         0x00000000        0x8 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(rcc.o)
+ .group         0x00000000        0x8 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(rcc.o)
+ .group         0x00000000        0x8 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(rcc.o)
+ .group         0x00000000        0x8 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(rcc.o)
+ .group         0x00000000        0x8 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(rcc.o)
+ .group         0x00000000        0x8 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(rcc.o)
+ .group         0x00000000        0x8 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(rcc.o)
+ .text          0x00000000        0x0 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(rcc.o)
+ .data          0x00000000        0x0 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(rcc.o)
+ .bss           0x00000000        0x0 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(rcc.o)
+ .text.rcc_osc_ready_int_clear
+                0x00000000       0x5c e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(rcc.o)
+ .text.rcc_osc_ready_int_enable
+                0x00000000       0x5c e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(rcc.o)
+ .text.rcc_osc_ready_int_disable
+                0x00000000       0x5c e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(rcc.o)
+ .text.rcc_osc_ready_int_flag
+                0x00000000       0x54 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(rcc.o)
+ .text.rcc_css_int_clear
+                0x00000000       0x10 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(rcc.o)
+ .text.rcc_css_int_flag
+                0x00000000       0x10 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(rcc.o)
+ .text.rcc_osc_off
+                0x00000000       0x58 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(rcc.o)
+ .text.rcc_css_enable
+                0x00000000       0x10 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(rcc.o)
+ .text.rcc_css_disable
+                0x00000000       0x10 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(rcc.o)
+ .text.rcc_osc_bypass_enable
+                0x00000000       0x28 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(rcc.o)
+ .text.rcc_osc_bypass_disable
+                0x00000000       0x28 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(rcc.o)
+ .text.rcc_set_pll2_multiplication_factor
+                0x00000000       0x14 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(rcc.o)
+ .text.rcc_set_pll3_multiplication_factor
+                0x00000000       0x14 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(rcc.o)
+ .text.rcc_rtc_clock_enabled_flag
+                0x00000000       0x10 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(rcc.o)
+ .text.rcc_enable_rtc_clock
+                0x00000000       0x10 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(rcc.o)
+ .text.rcc_set_rtc_clock_source
+                0x00000000       0x90 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(rcc.o)
+ .text.rcc_set_usbpre
+                0x00000000       0x18 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(rcc.o)
+ .text.rcc_set_prediv1
+                0x00000000       0x14 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(rcc.o)
+ .text.rcc_set_prediv2
+                0x00000000       0x14 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(rcc.o)
+ .text.rcc_set_prediv1_source
+                0x00000000       0x18 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(rcc.o)
+ .text.rcc_system_clock_source
+                0x00000000       0x10 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(rcc.o)
+ .text.rcc_clock_setup_in_hsi_out_64mhz
+                0x00000000       0x74 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(rcc.o)
+ .text.rcc_clock_setup_in_hsi_out_48mhz
+                0x00000000       0x84 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(rcc.o)
+ .text.rcc_clock_setup_in_hsi_out_24mhz
+                0x00000000       0x70 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(rcc.o)
+ .text.rcc_clock_setup_in_hse_8mhz_out_24mhz
+                0x00000000       0x88 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(rcc.o)
+ .text.rcc_clock_setup_in_hse_12mhz_out_72mhz
+                0x00000000       0x8c e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(rcc.o)
+ .text.rcc_clock_setup_in_hse_16mhz_out_72mhz
+                0x00000000       0x8c e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(rcc.o)
+ .text.rcc_clock_setup_in_hse_25mhz_out_72mhz
+                0x00000000       0xac e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(rcc.o)
+ .text.rcc_backupdomain_reset
+                0x00000000       0x18 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(rcc.o)
+ .debug_macro   0x00000000      0x874 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(rcc.o)
+ .debug_macro   0x00000000       0x22 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(rcc.o)
+ .debug_macro   0x00000000       0x87 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(rcc.o)
+ .debug_macro   0x00000000       0x44 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(rcc.o)
+ .debug_macro   0x00000000       0xfd e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(rcc.o)
+ .debug_macro   0x00000000       0x22 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(rcc.o)
+ .debug_macro   0x00000000      0x1df e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(rcc.o)
+ .debug_macro   0x00000000       0x22 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(rcc.o)
+ .debug_macro   0x00000000       0xfa e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(rcc.o)
+ .debug_macro   0x00000000       0x58 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(rcc.o)
+ .debug_macro   0x00000000      0x1b4 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(rcc.o)
+ .group         0x00000000        0x8 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(gpio_common_all.o)
+ .group         0x00000000        0x8 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(gpio_common_all.o)
+ .group         0x00000000        0x8 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(gpio_common_all.o)
+ .group         0x00000000        0x8 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(gpio_common_all.o)
+ .group         0x00000000        0x8 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(gpio_common_all.o)
+ .group         0x00000000        0x8 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(gpio_common_all.o)
+ .group         0x00000000        0x8 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(gpio_common_all.o)
+ .group         0x00000000        0x8 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(gpio_common_all.o)
+ .group         0x00000000        0x8 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(gpio_common_all.o)
+ .group         0x00000000        0x8 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(gpio_common_all.o)
+ .group         0x00000000        0x8 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(gpio_common_all.o)
+ .group         0x00000000        0x8 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(gpio_common_all.o)
+ .group         0x00000000        0x8 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(gpio_common_all.o)
+ .text          0x00000000        0x0 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(gpio_common_all.o)
+ .data          0x00000000        0x0 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(gpio_common_all.o)
+ .bss           0x00000000        0x0 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(gpio_common_all.o)
+ .text.gpio_get
+                0x00000000        0x6 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(gpio_common_all.o)
+ .text.gpio_toggle
+                0x00000000       0x12 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(gpio_common_all.o)
+ .text.gpio_port_read
+                0x00000000        0x6 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(gpio_common_all.o)
+ .text.gpio_port_write
+                0x00000000        0x4 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(gpio_common_all.o)
+ .text.gpio_port_config_lock
+                0x00000000       0x10 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(gpio_common_all.o)
+ .debug_macro   0x00000000      0x874 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(gpio_common_all.o)
+ .debug_macro   0x00000000       0x22 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(gpio_common_all.o)
+ .debug_macro   0x00000000       0x87 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(gpio_common_all.o)
+ .debug_macro   0x00000000       0x44 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(gpio_common_all.o)
+ .debug_macro   0x00000000       0xfd e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(gpio_common_all.o)
+ .debug_macro   0x00000000       0x22 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(gpio_common_all.o)
+ .debug_macro   0x00000000      0x1df e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(gpio_common_all.o)
+ .debug_macro   0x00000000       0x22 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(gpio_common_all.o)
+ .debug_macro   0x00000000       0xfa e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(gpio_common_all.o)
+ .debug_macro   0x00000000       0x58 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(gpio_common_all.o)
+ .debug_macro   0x00000000      0x1b4 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(gpio_common_all.o)
+ .debug_macro   0x00000000       0x76 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(gpio_common_all.o)
+ .debug_macro   0x00000000      0xdfd e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(gpio_common_all.o)
+ .group         0x00000000        0x8 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(iwdg_common_all.o)
+ .group         0x00000000        0x8 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(iwdg_common_all.o)
+ .group         0x00000000        0x8 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(iwdg_common_all.o)
+ .group         0x00000000        0x8 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(iwdg_common_all.o)
+ .group         0x00000000        0x8 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(iwdg_common_all.o)
+ .group         0x00000000        0x8 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(iwdg_common_all.o)
+ .group         0x00000000        0x8 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(iwdg_common_all.o)
+ .group         0x00000000        0x8 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(iwdg_common_all.o)
+ .group         0x00000000        0x8 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(iwdg_common_all.o)
+ .group         0x00000000        0x8 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(iwdg_common_all.o)
+ .group         0x00000000        0x8 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(iwdg_common_all.o)
+ .group         0x00000000        0x8 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(iwdg_common_all.o)
+ .text          0x00000000        0x0 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(iwdg_common_all.o)
+ .data          0x00000000        0x0 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(iwdg_common_all.o)
+ .bss           0x00000000        0x0 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(iwdg_common_all.o)
+ .debug_macro   0x00000000      0x874 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(iwdg_common_all.o)
+ .debug_macro   0x00000000       0x22 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(iwdg_common_all.o)
+ .debug_macro   0x00000000       0x87 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(iwdg_common_all.o)
+ .debug_macro   0x00000000       0x44 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(iwdg_common_all.o)
+ .debug_macro   0x00000000       0xfd e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(iwdg_common_all.o)
+ .debug_macro   0x00000000       0x22 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(iwdg_common_all.o)
+ .debug_macro   0x00000000      0x1df e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(iwdg_common_all.o)
+ .debug_macro   0x00000000       0x22 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(iwdg_common_all.o)
+ .debug_macro   0x00000000       0xfa e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(iwdg_common_all.o)
+ .debug_macro   0x00000000       0x58 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(iwdg_common_all.o)
+ .debug_macro   0x00000000      0x1b4 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(iwdg_common_all.o)
+ .group         0x00000000        0x8 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(rcc_common_all.o)
+ .group         0x00000000        0x8 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(rcc_common_all.o)
+ .group         0x00000000        0x8 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(rcc_common_all.o)
+ .group         0x00000000        0x8 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(rcc_common_all.o)
+ .group         0x00000000        0x8 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(rcc_common_all.o)
+ .group         0x00000000        0x8 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(rcc_common_all.o)
+ .group         0x00000000        0x8 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(rcc_common_all.o)
+ .group         0x00000000        0x8 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(rcc_common_all.o)
+ .group         0x00000000        0x8 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(rcc_common_all.o)
+ .group         0x00000000        0x8 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(rcc_common_all.o)
+ .group         0x00000000        0x8 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(rcc_common_all.o)
+ .group         0x00000000        0x8 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(rcc_common_all.o)
+ .text          0x00000000        0x0 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(rcc_common_all.o)
+ .data          0x00000000        0x0 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(rcc_common_all.o)
+ .bss           0x00000000        0x0 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(rcc_common_all.o)
+ .text.rcc_peripheral_enable_clock
+                0x00000000        0x8 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(rcc_common_all.o)
+ .text.rcc_peripheral_disable_clock
+                0x00000000        0xa e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(rcc_common_all.o)
+ .text.rcc_peripheral_reset
+                0x00000000        0x8 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(rcc_common_all.o)
+ .text.rcc_peripheral_clear_reset
+                0x00000000        0xa e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(rcc_common_all.o)
+ .text.rcc_periph_clock_disable
+                0x00000000       0x1e e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(rcc_common_all.o)
+ .text.rcc_periph_reset_pulse
+                0x00000000       0x26 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(rcc_common_all.o)
+ .text.rcc_periph_reset_hold
+                0x00000000       0x1c e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(rcc_common_all.o)
+ .text.rcc_periph_reset_release
+                0x00000000       0x1e e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(rcc_common_all.o)
+ .text.rcc_set_mco
+                0x00000000       0x14 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(rcc_common_all.o)
+ .debug_macro   0x00000000      0x874 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(rcc_common_all.o)
+ .debug_macro   0x00000000       0x22 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(rcc_common_all.o)
+ .debug_macro   0x00000000       0x87 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(rcc_common_all.o)
+ .debug_macro   0x00000000       0x44 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(rcc_common_all.o)
+ .debug_macro   0x00000000       0xfd e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(rcc_common_all.o)
+ .debug_macro   0x00000000       0x22 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(rcc_common_all.o)
+ .debug_macro   0x00000000      0x1df e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(rcc_common_all.o)
+ .debug_macro   0x00000000       0x22 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(rcc_common_all.o)
+ .debug_macro   0x00000000       0xfa e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(rcc_common_all.o)
+ .debug_macro   0x00000000       0x58 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(rcc_common_all.o)
+ .debug_macro   0x00000000      0x1b4 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(rcc_common_all.o)
+ .debug_macro   0x00000000      0x82c e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(rcc_common_all.o)
+ .group         0x00000000        0x8 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(flash_common_f01.o)
+ .group         0x00000000        0x8 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(flash_common_f01.o)
+ .group         0x00000000        0x8 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(flash_common_f01.o)
+ .group         0x00000000        0x8 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(flash_common_f01.o)
+ .group         0x00000000        0x8 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(flash_common_f01.o)
+ .group         0x00000000        0x8 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(flash_common_f01.o)
+ .group         0x00000000        0x8 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(flash_common_f01.o)
+ .group         0x00000000        0x8 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(flash_common_f01.o)
+ .group         0x00000000        0x8 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(flash_common_f01.o)
+ .group         0x00000000        0x8 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(flash_common_f01.o)
+ .group         0x00000000        0x8 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(flash_common_f01.o)
+ .group         0x00000000        0x8 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(flash_common_f01.o)
+ .group         0x00000000        0x8 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(flash_common_f01.o)
+ .text          0x00000000        0x0 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(flash_common_f01.o)
+ .data          0x00000000        0x0 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(flash_common_f01.o)
+ .bss           0x00000000        0x0 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(flash_common_f01.o)
+ .text.flash_prefetch_buffer_enable
+                0x00000000       0x10 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(flash_common_f01.o)
+ .text.flash_prefetch_buffer_disable
+                0x00000000       0x10 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(flash_common_f01.o)
+ .text.flash_unlock
+                0x00000000       0x24 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(flash_common_f01.o)
+ .text.flash_lock
+                0x00000000       0x10 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(flash_common_f01.o)
+ .text.flash_clear_pgerr_flag
+                0x00000000       0x10 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(flash_common_f01.o)
+ .text.flash_clear_eop_flag
+                0x00000000       0x10 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(flash_common_f01.o)
+ .text.flash_clear_wrprterr_flag
+                0x00000000       0x10 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(flash_common_f01.o)
+ .text.flash_clear_bsy_flag
+                0x00000000       0x10 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(flash_common_f01.o)
+ .text.flash_wait_for_last_operation
+                0x00000000        0xc e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(flash_common_f01.o)
+ .text.flash_program_word
+                0x00000000       0x18 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(flash_common_f01.o)
+ .text.flash_unlock_option_bytes
+                0x00000000       0x18 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(flash_common_f01.o)
+ .text.flash_erase_option_bytes
+                0x00000000       0x34 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(flash_common_f01.o)
+ .text.flash_program_option_bytes
+                0x00000000       0x34 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(flash_common_f01.o)
+ .debug_macro   0x00000000      0x874 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(flash_common_f01.o)
+ .debug_macro   0x00000000       0x22 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(flash_common_f01.o)
+ .debug_macro   0x00000000       0x87 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(flash_common_f01.o)
+ .debug_macro   0x00000000       0x44 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(flash_common_f01.o)
+ .debug_macro   0x00000000       0xfd e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(flash_common_f01.o)
+ .debug_macro   0x00000000       0x22 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(flash_common_f01.o)
+ .debug_macro   0x00000000      0x1df e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(flash_common_f01.o)
+ .debug_macro   0x00000000       0x22 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(flash_common_f01.o)
+ .debug_macro   0x00000000       0xfa e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(flash_common_f01.o)
+ .debug_macro   0x00000000       0x58 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(flash_common_f01.o)
+ .debug_macro   0x00000000      0x1b4 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(flash_common_f01.o)
+ .debug_macro   0x00000000       0xdc e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(flash_common_f01.o)
+ .debug_macro   0x00000000       0x82 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(flash_common_f01.o)
+ .group         0x00000000        0x8 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(usb.o)
+ .group         0x00000000        0x8 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(usb.o)
+ .group         0x00000000        0x8 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(usb.o)
+ .group         0x00000000        0x8 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(usb.o)
+ .group         0x00000000        0x8 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(usb.o)
+ .group         0x00000000        0x8 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(usb.o)
+ .group         0x00000000        0x8 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(usb.o)
+ .group         0x00000000        0x8 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(usb.o)
+ .group         0x00000000        0x8 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(usb.o)
+ .group         0x00000000        0x8 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(usb.o)
+ .group         0x00000000        0x8 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(usb.o)
+ .group         0x00000000        0x8 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(usb.o)
+ .group         0x00000000        0x8 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(usb.o)
+ .group         0x00000000        0x8 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(usb.o)
+ .group         0x00000000        0x8 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(usb.o)
+ .group         0x00000000        0x8 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(usb.o)
+ .group         0x00000000        0x8 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(usb.o)
+ .group         0x00000000        0x8 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(usb.o)
+ .group         0x00000000        0x8 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(usb.o)
+ .group         0x00000000        0x8 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(usb.o)
+ .group         0x00000000        0x8 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(usb.o)
+ .group         0x00000000        0x8 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(usb.o)
+ .group         0x00000000        0x8 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(usb.o)
+ .text          0x00000000        0x0 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(usb.o)
+ .data          0x00000000        0x0 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(usb.o)
+ .bss           0x00000000        0x0 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(usb.o)
+ .text.usbd_register_reset_callback
+                0x00000000        0x4 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(usb.o)
+ .text.usbd_register_suspend_callback
+                0x00000000        0x4 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(usb.o)
+ .text.usbd_register_resume_callback
+                0x00000000        0x4 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(usb.o)
+ .text.usbd_register_sof_callback
+                0x00000000        0x4 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(usb.o)
+ .text.usbd_disconnect
+                0x00000000        0xc e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(usb.o)
+ .text.usbd_ep_nak_set
+                0x00000000        0x8 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(usb.o)
+ .debug_macro   0x00000000      0x874 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(usb.o)
+ .debug_macro   0x00000000       0x22 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(usb.o)
+ .debug_macro   0x00000000       0xfd e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(usb.o)
+ .debug_macro   0x00000000       0x22 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(usb.o)
+ .debug_macro   0x00000000      0x1df e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(usb.o)
+ .debug_macro   0x00000000       0x22 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(usb.o)
+ .debug_macro   0x00000000       0xfa e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(usb.o)
+ .group         0x00000000        0x8 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(usb_control.o)
+ .group         0x00000000        0x8 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(usb_control.o)
+ .group         0x00000000        0x8 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(usb_control.o)
+ .group         0x00000000        0x8 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(usb_control.o)
+ .group         0x00000000        0x8 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(usb_control.o)
+ .group         0x00000000        0x8 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(usb_control.o)
+ .group         0x00000000        0x8 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(usb_control.o)
+ .group         0x00000000        0x8 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(usb_control.o)
+ .group         0x00000000        0x8 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(usb_control.o)
+ .group         0x00000000        0x8 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(usb_control.o)
+ .group         0x00000000        0x8 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(usb_control.o)
+ .group         0x00000000        0x8 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(usb_control.o)
+ .group         0x00000000        0x8 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(usb_control.o)
+ .group         0x00000000        0x8 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(usb_control.o)
+ .group         0x00000000        0x8 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(usb_control.o)
+ .group         0x00000000        0x8 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(usb_control.o)
+ .group         0x00000000        0x8 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(usb_control.o)
+ .group         0x00000000        0x8 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(usb_control.o)
+ .group         0x00000000        0x8 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(usb_control.o)
+ .group         0x00000000        0x8 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(usb_control.o)
+ .group         0x00000000        0x8 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(usb_control.o)
+ .group         0x00000000        0x8 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(usb_control.o)
+ .group         0x00000000        0x8 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(usb_control.o)
+ .group         0x00000000        0x8 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(usb_control.o)
+ .group         0x00000000        0x8 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(usb_control.o)
+ .text          0x00000000        0x0 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(usb_control.o)
+ .data          0x00000000        0x0 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(usb_control.o)
+ .bss           0x00000000        0x0 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(usb_control.o)
+ .debug_macro   0x00000000      0x874 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(usb_control.o)
+ .debug_macro   0x00000000       0x22 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(usb_control.o)
+ .debug_macro   0x00000000       0x4c e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(usb_control.o)
+ .debug_macro   0x00000000       0x8d e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(usb_control.o)
+ .debug_macro   0x00000000       0x35 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(usb_control.o)
+ .debug_macro   0x00000000       0x9c e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(usb_control.o)
+ .debug_macro   0x00000000       0x4a e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(usb_control.o)
+ .debug_macro   0x00000000       0x52 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(usb_control.o)
+ .debug_macro   0x00000000       0x16 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(usb_control.o)
+ .debug_macro   0x00000000       0x43 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(usb_control.o)
+ .debug_macro   0x00000000      0x187 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(usb_control.o)
+ .debug_macro   0x00000000      0x30d e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(usb_control.o)
+ .debug_macro   0x00000000       0xfd e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(usb_control.o)
+ .debug_macro   0x00000000       0x22 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(usb_control.o)
+ .debug_macro   0x00000000      0x1df e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(usb_control.o)
+ .debug_macro   0x00000000       0x22 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(usb_control.o)
+ .debug_macro   0x00000000       0xfa e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(usb_control.o)
+ .debug_macro   0x00000000      0x196 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(usb_control.o)
+ .debug_macro   0x00000000       0x10 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(usb_control.o)
+ .debug_macro   0x00000000       0x1c e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(usb_control.o)
+ .group         0x00000000        0x8 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(usb_standard.o)
+ .group         0x00000000        0x8 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(usb_standard.o)
+ .group         0x00000000        0x8 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(usb_standard.o)
+ .group         0x00000000        0x8 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(usb_standard.o)
+ .group         0x00000000        0x8 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(usb_standard.o)
+ .group         0x00000000        0x8 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(usb_standard.o)
+ .group         0x00000000        0x8 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(usb_standard.o)
+ .group         0x00000000        0x8 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(usb_standard.o)
+ .group         0x00000000        0x8 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(usb_standard.o)
+ .group         0x00000000        0x8 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(usb_standard.o)
+ .group         0x00000000        0x8 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(usb_standard.o)
+ .group         0x00000000        0x8 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(usb_standard.o)
+ .group         0x00000000        0x8 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(usb_standard.o)
+ .group         0x00000000        0x8 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(usb_standard.o)
+ .group         0x00000000        0x8 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(usb_standard.o)
+ .group         0x00000000        0x8 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(usb_standard.o)
+ .group         0x00000000        0x8 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(usb_standard.o)
+ .group         0x00000000        0x8 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(usb_standard.o)
+ .group         0x00000000        0x8 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(usb_standard.o)
+ .group         0x00000000        0x8 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(usb_standard.o)
+ .group         0x00000000        0x8 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(usb_standard.o)
+ .group         0x00000000        0x8 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(usb_standard.o)
+ .group         0x00000000        0x8 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(usb_standard.o)
+ .text          0x00000000        0x0 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(usb_standard.o)
+ .data          0x00000000        0x0 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(usb_standard.o)
+ .bss           0x00000000        0x0 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(usb_standard.o)
+ .text.usbd_register_set_altsetting_callback
+                0x00000000        0x6 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(usb_standard.o)
+ .debug_macro   0x00000000      0x874 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(usb_standard.o)
+ .debug_macro   0x00000000       0x22 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(usb_standard.o)
+ .debug_macro   0x00000000       0x4c e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(usb_standard.o)
+ .debug_macro   0x00000000       0x8d e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(usb_standard.o)
+ .debug_macro   0x00000000       0x35 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(usb_standard.o)
+ .debug_macro   0x00000000       0x9c e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(usb_standard.o)
+ .debug_macro   0x00000000      0x174 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(usb_standard.o)
+ .debug_macro   0x00000000       0x4a e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(usb_standard.o)
+ .debug_macro   0x00000000       0x52 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(usb_standard.o)
+ .debug_macro   0x00000000       0x16 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(usb_standard.o)
+ .debug_macro   0x00000000       0x43 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(usb_standard.o)
+ .debug_macro   0x00000000      0x187 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(usb_standard.o)
+ .debug_macro   0x00000000      0x30d e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(usb_standard.o)
+ .debug_macro   0x00000000       0x10 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(usb_standard.o)
+ .debug_macro   0x00000000       0x35 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(usb_standard.o)
+ .debug_macro   0x00000000       0xfd e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(usb_standard.o)
+ .debug_macro   0x00000000       0x22 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(usb_standard.o)
+ .debug_macro   0x00000000      0x1df e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(usb_standard.o)
+ .debug_macro   0x00000000       0x22 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(usb_standard.o)
+ .debug_macro   0x00000000       0xfa e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(usb_standard.o)
+ .debug_macro   0x00000000      0x196 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(usb_standard.o)
+ .debug_macro   0x00000000       0x10 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(usb_standard.o)
+ .debug_macro   0x00000000       0x1c e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(usb_standard.o)
+ .group         0x00000000        0x8 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(st_usbfs_v1.o)
+ .group         0x00000000        0x8 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(st_usbfs_v1.o)
+ .group         0x00000000        0x8 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(st_usbfs_v1.o)
+ .group         0x00000000        0x8 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(st_usbfs_v1.o)
+ .group         0x00000000        0x8 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(st_usbfs_v1.o)
+ .group         0x00000000        0x8 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(st_usbfs_v1.o)
+ .group         0x00000000        0x8 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(st_usbfs_v1.o)
+ .group         0x00000000        0x8 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(st_usbfs_v1.o)
+ .group         0x00000000        0x8 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(st_usbfs_v1.o)
+ .group         0x00000000        0x8 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(st_usbfs_v1.o)
+ .group         0x00000000        0x8 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(st_usbfs_v1.o)
+ .group         0x00000000        0x8 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(st_usbfs_v1.o)
+ .group         0x00000000        0x8 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(st_usbfs_v1.o)
+ .group         0x00000000        0x8 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(st_usbfs_v1.o)
+ .group         0x00000000        0x8 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(st_usbfs_v1.o)
+ .group         0x00000000        0x8 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(st_usbfs_v1.o)
+ .group         0x00000000        0x8 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(st_usbfs_v1.o)
+ .group         0x00000000        0x8 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(st_usbfs_v1.o)
+ .group         0x00000000        0x8 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(st_usbfs_v1.o)
+ .text          0x00000000        0x0 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(st_usbfs_v1.o)
+ .data          0x00000000        0x0 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(st_usbfs_v1.o)
+ .bss           0x00000000        0x0 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(st_usbfs_v1.o)
+ .debug_macro   0x00000000      0x874 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(st_usbfs_v1.o)
+ .debug_macro   0x00000000       0x22 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(st_usbfs_v1.o)
+ .debug_macro   0x00000000       0x87 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(st_usbfs_v1.o)
+ .debug_macro   0x00000000       0x44 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(st_usbfs_v1.o)
+ .debug_macro   0x00000000       0xfd e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(st_usbfs_v1.o)
+ .debug_macro   0x00000000       0x22 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(st_usbfs_v1.o)
+ .debug_macro   0x00000000      0x1df e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(st_usbfs_v1.o)
+ .debug_macro   0x00000000       0x22 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(st_usbfs_v1.o)
+ .debug_macro   0x00000000       0xfa e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(st_usbfs_v1.o)
+ .debug_macro   0x00000000       0x58 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(st_usbfs_v1.o)
+ .debug_macro   0x00000000      0x1b4 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(st_usbfs_v1.o)
+ .debug_macro   0x00000000      0x82c e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(st_usbfs_v1.o)
+ .debug_macro   0x00000000       0x10 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(st_usbfs_v1.o)
+ .debug_macro   0x00000000       0x1c e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(st_usbfs_v1.o)
+ .group         0x00000000        0x8 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(vector.o)
+ .group         0x00000000        0x8 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(vector.o)
+ .group         0x00000000        0x8 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(vector.o)
+ .group         0x00000000        0x8 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(vector.o)
+ .group         0x00000000        0x8 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(vector.o)
+ .group         0x00000000        0x8 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(vector.o)
+ .group         0x00000000        0x8 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(vector.o)
+ .group         0x00000000        0x8 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(vector.o)
+ .group         0x00000000        0x8 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(vector.o)
+ .group         0x00000000        0x8 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(vector.o)
+ .group         0x00000000        0x8 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(vector.o)
+ .group         0x00000000        0x8 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(vector.o)
+ .group         0x00000000        0x8 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(vector.o)
+ .text          0x00000000        0x0 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(vector.o)
+ .data          0x00000000        0x0 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(vector.o)
+ .bss           0x00000000        0x0 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(vector.o)
+ .debug_macro   0x00000000      0x874 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(vector.o)
+ .debug_macro   0x00000000       0x58 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(vector.o)
+ .debug_macro   0x00000000       0x22 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(vector.o)
+ .debug_macro   0x00000000       0x87 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(vector.o)
+ .debug_macro   0x00000000       0x44 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(vector.o)
+ .debug_macro   0x00000000       0xfd e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(vector.o)
+ .debug_macro   0x00000000       0x22 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(vector.o)
+ .debug_macro   0x00000000      0x1df e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(vector.o)
+ .debug_macro   0x00000000       0x22 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(vector.o)
+ .debug_macro   0x00000000       0xfa e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(vector.o)
+ .group         0x00000000        0x8 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(systick.o)
+ .group         0x00000000        0x8 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(systick.o)
+ .group         0x00000000        0x8 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(systick.o)
+ .group         0x00000000        0x8 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(systick.o)
+ .group         0x00000000        0x8 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(systick.o)
+ .group         0x00000000        0x8 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(systick.o)
+ .group         0x00000000        0x8 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(systick.o)
+ .group         0x00000000        0x8 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(systick.o)
+ .group         0x00000000        0x8 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(systick.o)
+ .group         0x00000000        0x8 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(systick.o)
+ .group         0x00000000        0x8 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(systick.o)
+ .text          0x00000000        0x0 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(systick.o)
+ .data          0x00000000        0x0 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(systick.o)
+ .bss           0x00000000        0x0 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(systick.o)
+ .text.systick_get_reload
+                0x00000000       0x10 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(systick.o)
+ .text.systick_get_value
+                0x00000000       0x10 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(systick.o)
+ .text.systick_set_frequency
+                0x00000000       0x3c e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(systick.o)
+ .text.systick_interrupt_disable
+                0x00000000       0x10 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(systick.o)
+ .text.systick_counter_disable
+                0x00000000       0x10 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(systick.o)
+ .text.systick_get_countflag
+                0x00000000       0x10 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(systick.o)
+ .text.systick_clear
+                0x00000000        0xc e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(systick.o)
+ .text.systick_get_calib
+                0x00000000       0x10 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(systick.o)
+ .debug_macro   0x00000000      0x874 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(systick.o)
+ .debug_macro   0x00000000       0x58 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(systick.o)
+ .debug_macro   0x00000000       0x22 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(systick.o)
+ .debug_macro   0x00000000       0x87 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(systick.o)
+ .debug_macro   0x00000000       0x44 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(systick.o)
+ .debug_macro   0x00000000       0xfd e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(systick.o)
+ .debug_macro   0x00000000       0x22 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(systick.o)
+ .debug_macro   0x00000000      0x1df e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(systick.o)
+ .debug_macro   0x00000000       0x22 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(systick.o)
+ .debug_macro   0x00000000       0xfa e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(systick.o)
+ .group         0x00000000        0x8 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(scb.o)
+ .group         0x00000000        0x8 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(scb.o)
+ .group         0x00000000        0x8 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(scb.o)
+ .group         0x00000000        0x8 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(scb.o)
+ .group         0x00000000        0x8 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(scb.o)
+ .group         0x00000000        0x8 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(scb.o)
+ .group         0x00000000        0x8 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(scb.o)
+ .group         0x00000000        0x8 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(scb.o)
+ .group         0x00000000        0x8 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(scb.o)
+ .group         0x00000000        0x8 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(scb.o)
+ .group         0x00000000        0x8 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(scb.o)
+ .group         0x00000000        0x8 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(scb.o)
+ .group         0x00000000        0x8 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(scb.o)
+ .group         0x00000000        0x8 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(scb.o)
+ .group         0x00000000        0x8 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(scb.o)
+ .group         0x00000000        0x8 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(scb.o)
+ .group         0x00000000        0x8 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(scb.o)
+ .group         0x00000000        0x8 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(scb.o)
+ .group         0x00000000        0x8 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(scb.o)
+ .group         0x00000000        0x8 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(scb.o)
+ .group         0x00000000        0x8 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(scb.o)
+ .group         0x00000000        0x8 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(scb.o)
+ .group         0x00000000        0x8 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(scb.o)
+ .group         0x00000000        0x8 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(scb.o)
+ .text          0x00000000        0x0 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(scb.o)
+ .data          0x00000000        0x0 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(scb.o)
+ .bss           0x00000000        0x0 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(scb.o)
+ .text.scb_reset_core
+                0x00000000       0x10 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(scb.o)
+ .text.scb_reset_system
+                0x00000000       0x10 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(scb.o)
+ .text.scb_set_priority_grouping
+                0x00000000       0x14 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(scb.o)
+ .debug_info    0x00000000       0xde e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(scb.o)
+ .debug_abbrev  0x00000000       0x7c e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(scb.o)
+ .debug_loc     0x00000000       0x21 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(scb.o)
+ .debug_aranges
+                0x00000000       0x30 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(scb.o)
+ .debug_ranges  0x00000000       0x20 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(scb.o)
+ .debug_macro   0x00000000      0x14c e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(scb.o)
+ .debug_macro   0x00000000      0x874 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(scb.o)
+ .debug_macro   0x00000000       0x22 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(scb.o)
+ .debug_macro   0x00000000       0x4c e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(scb.o)
+ .debug_macro   0x00000000       0x8d e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(scb.o)
+ .debug_macro   0x00000000       0x35 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(scb.o)
+ .debug_macro   0x00000000       0x9c e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(scb.o)
+ .debug_macro   0x00000000       0x16 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(scb.o)
+ .debug_macro   0x00000000      0x10e e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(scb.o)
+ .debug_macro   0x00000000       0x8d e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(scb.o)
+ .debug_macro   0x00000000       0x4a e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(scb.o)
+ .debug_macro   0x00000000       0x52 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(scb.o)
+ .debug_macro   0x00000000       0x16 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(scb.o)
+ .debug_macro   0x00000000       0x43 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(scb.o)
+ .debug_macro   0x00000000      0x187 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(scb.o)
+ .debug_macro   0x00000000      0x30d e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(scb.o)
+ .debug_macro   0x00000000       0x16 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(scb.o)
+ .debug_macro   0x00000000       0x29 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(scb.o)
+ .debug_macro   0x00000000       0x58 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(scb.o)
+ .debug_macro   0x00000000       0xfd e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(scb.o)
+ .debug_macro   0x00000000       0x22 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(scb.o)
+ .debug_macro   0x00000000      0x1df e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(scb.o)
+ .debug_macro   0x00000000       0x22 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(scb.o)
+ .debug_macro   0x00000000       0xfa e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(scb.o)
+ .debug_macro   0x00000000      0x3a1 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(scb.o)
+ .debug_line    0x00000000      0x307 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(scb.o)
+ .debug_str     0x00000000     0x749d e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(scb.o)
+ .comment       0x00000000       0x6f e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(scb.o)
+ .debug_frame   0x00000000       0x40 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(scb.o)
+ .ARM.attributes
+                0x00000000       0x33 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(scb.o)
+ .group         0x00000000        0x8 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(nvic.o)
+ .group         0x00000000        0x8 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(nvic.o)
+ .group         0x00000000        0x8 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(nvic.o)
+ .group         0x00000000        0x8 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(nvic.o)
+ .group         0x00000000        0x8 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(nvic.o)
+ .group         0x00000000        0x8 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(nvic.o)
+ .group         0x00000000        0x8 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(nvic.o)
+ .group         0x00000000        0x8 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(nvic.o)
+ .group         0x00000000        0x8 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(nvic.o)
+ .group         0x00000000        0x8 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(nvic.o)
+ .group         0x00000000        0x8 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(nvic.o)
+ .group         0x00000000        0x8 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(nvic.o)
+ .group         0x00000000        0x8 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(nvic.o)
+ .text          0x00000000        0x0 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(nvic.o)
+ .data          0x00000000        0x0 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(nvic.o)
+ .bss           0x00000000        0x0 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(nvic.o)
+ .text.nvic_disable_irq
+                0x00000000       0x18 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(nvic.o)
+ .text.nvic_get_pending_irq
+                0x00000000       0x22 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(nvic.o)
+ .text.nvic_set_pending_irq
+                0x00000000       0x1a e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(nvic.o)
+ .text.nvic_clear_pending_irq
+                0x00000000       0x18 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(nvic.o)
+ .text.nvic_get_irq_enabled
+                0x00000000       0x22 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(nvic.o)
+ .text.nvic_get_active_irq
+                0x00000000       0x22 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(nvic.o)
+ .text.nvic_generate_software_interrupt
+                0x00000000       0x14 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(nvic.o)
+ .debug_macro   0x00000000      0x874 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(nvic.o)
+ .debug_macro   0x00000000       0x22 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(nvic.o)
+ .debug_macro   0x00000000       0x87 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(nvic.o)
+ .debug_macro   0x00000000       0x44 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(nvic.o)
+ .debug_macro   0x00000000       0xfd e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(nvic.o)
+ .debug_macro   0x00000000       0x22 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(nvic.o)
+ .debug_macro   0x00000000      0x1df e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(nvic.o)
+ .debug_macro   0x00000000       0x22 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(nvic.o)
+ .debug_macro   0x00000000       0xfa e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(nvic.o)
+ .debug_macro   0x00000000       0x58 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(nvic.o)
+ .debug_macro   0x00000000      0x1a2 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(nvic.o)
+ .group         0x00000000        0x8 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(assert.o)
+ .group         0x00000000        0x8 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(assert.o)
+ .group         0x00000000        0x8 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(assert.o)
+ .group         0x00000000        0x8 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(assert.o)
+ .group         0x00000000        0x8 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(assert.o)
+ .group         0x00000000        0x8 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(assert.o)
+ .group         0x00000000        0x8 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(assert.o)
+ .group         0x00000000        0x8 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(assert.o)
+ .group         0x00000000        0x8 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(assert.o)
+ .group         0x00000000        0x8 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(assert.o)
+ .text          0x00000000        0x0 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(assert.o)
+ .data          0x00000000        0x0 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(assert.o)
+ .bss           0x00000000        0x0 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(assert.o)
+ .text.cm3_assert_failed
+                0x00000000        0x2 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(assert.o)
+ .text.cm3_assert_failed_verbose
+                0x00000000        0x6 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(assert.o)
+ .debug_info    0x00000000       0xee e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(assert.o)
+ .debug_abbrev  0x00000000       0x8f e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(assert.o)
+ .debug_loc     0x00000000       0x84 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(assert.o)
+ .debug_aranges
+                0x00000000       0x28 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(assert.o)
+ .debug_ranges  0x00000000       0x18 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(assert.o)
+ .debug_macro   0x00000000       0x8a e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(assert.o)
+ .debug_macro   0x00000000      0x874 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(assert.o)
+ .debug_macro   0x00000000       0x22 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(assert.o)
+ .debug_macro   0x00000000       0x87 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(assert.o)
+ .debug_macro   0x00000000       0x44 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(assert.o)
+ .debug_macro   0x00000000       0xfd e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(assert.o)
+ .debug_macro   0x00000000       0x22 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(assert.o)
+ .debug_macro   0x00000000      0x1df e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(assert.o)
+ .debug_macro   0x00000000       0x22 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(assert.o)
+ .debug_macro   0x00000000       0xfa e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(assert.o)
+ .debug_macro   0x00000000       0x16 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(assert.o)
+ .debug_line    0x00000000      0x257 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(assert.o)
+ .debug_str     0x00000000     0x3781 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(assert.o)
+ .comment       0x00000000       0x6f e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(assert.o)
+ .debug_frame   0x00000000       0x38 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(assert.o)
+ .ARM.attributes
+                0x00000000       0x33 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(assert.o)
+ .group         0x00000000        0x8 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(flash.o)
+ .group         0x00000000        0x8 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(flash.o)
+ .group         0x00000000        0x8 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(flash.o)
+ .group         0x00000000        0x8 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(flash.o)
+ .group         0x00000000        0x8 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(flash.o)
+ .group         0x00000000        0x8 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(flash.o)
+ .group         0x00000000        0x8 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(flash.o)
+ .group         0x00000000        0x8 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(flash.o)
+ .group         0x00000000        0x8 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(flash.o)
+ .group         0x00000000        0x8 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(flash.o)
+ .group         0x00000000        0x8 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(flash.o)
+ .group         0x00000000        0x8 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(flash.o)
+ .group         0x00000000        0x8 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(flash.o)
+ .text          0x00000000        0x0 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(flash.o)
+ .data          0x00000000        0x0 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(flash.o)
+ .bss           0x00000000        0x0 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(flash.o)
+ .text.flash_halfcycle_enable
+                0x00000000       0x10 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(flash.o)
+ .text.flash_halfcycle_disable
+                0x00000000       0x10 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(flash.o)
+ .text.flash_unlock_upper
+                0x00000000       0x34 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(flash.o)
+ .text.flash_lock_upper
+                0x00000000       0x10 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(flash.o)
+ .text.flash_clear_pgerr_flag_upper
+                0x00000000       0x20 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(flash.o)
+ .text.flash_clear_eop_flag_upper
+                0x00000000       0x20 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(flash.o)
+ .text.flash_clear_wrprterr_flag_upper
+                0x00000000       0x20 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(flash.o)
+ .text.flash_clear_bsy_flag_upper
+                0x00000000       0x20 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(flash.o)
+ .text.flash_clear_status_flags
+                0x00000000       0x38 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(flash.o)
+ .text.flash_get_status_flags
+                0x00000000       0x28 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(flash.o)
+ .text.flash_program_half_word
+                0x00000000       0x64 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(flash.o)
+ .text.flash_erase_page
+                0x00000000       0x7c e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(flash.o)
+ .text.flash_erase_all_pages
+                0x00000000       0x48 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(flash.o)
+ .debug_info    0x00000000      0x2ab e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(flash.o)
+ .debug_abbrev  0x00000000      0x11a e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(flash.o)
+ .debug_loc     0x00000000       0x9c e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(flash.o)
+ .debug_aranges
+                0x00000000       0x80 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(flash.o)
+ .debug_ranges  0x00000000       0x70 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(flash.o)
+ .debug_macro   0x00000000       0xc9 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(flash.o)
+ .debug_macro   0x00000000      0x874 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(flash.o)
+ .debug_macro   0x00000000       0x22 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(flash.o)
+ .debug_macro   0x00000000       0x87 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(flash.o)
+ .debug_macro   0x00000000       0x44 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(flash.o)
+ .debug_macro   0x00000000       0xfd e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(flash.o)
+ .debug_macro   0x00000000       0x22 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(flash.o)
+ .debug_macro   0x00000000      0x1df e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(flash.o)
+ .debug_macro   0x00000000       0x22 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(flash.o)
+ .debug_macro   0x00000000       0xfa e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(flash.o)
+ .debug_macro   0x00000000       0x58 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(flash.o)
+ .debug_macro   0x00000000      0x1b4 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(flash.o)
+ .debug_macro   0x00000000       0xdc e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(flash.o)
+ .debug_macro   0x00000000       0x82 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(flash.o)
+ .debug_line    0x00000000      0x412 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(flash.o)
+ .debug_str     0x00000000     0x4ce7 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(flash.o)
+ .comment       0x00000000       0x6f e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(flash.o)
+ .debug_frame   0x00000000      0x10c e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(flash.o)
+ .ARM.attributes
+                0x00000000       0x33 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(flash.o)
+ .group         0x00000000        0x8 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(st_usbfs_core.o)
+ .group         0x00000000        0x8 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(st_usbfs_core.o)
+ .group         0x00000000        0x8 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(st_usbfs_core.o)
+ .group         0x00000000        0x8 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(st_usbfs_core.o)
+ .group         0x00000000        0x8 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(st_usbfs_core.o)
+ .group         0x00000000        0x8 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(st_usbfs_core.o)
+ .group         0x00000000        0x8 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(st_usbfs_core.o)
+ .group         0x00000000        0x8 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(st_usbfs_core.o)
+ .group         0x00000000        0x8 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(st_usbfs_core.o)
+ .group         0x00000000        0x8 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(st_usbfs_core.o)
+ .group         0x00000000        0x8 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(st_usbfs_core.o)
+ .group         0x00000000        0x8 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(st_usbfs_core.o)
+ .group         0x00000000        0x8 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(st_usbfs_core.o)
+ .group         0x00000000        0x8 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(st_usbfs_core.o)
+ .group         0x00000000        0x8 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(st_usbfs_core.o)
+ .group         0x00000000        0x8 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(st_usbfs_core.o)
+ .group         0x00000000        0x8 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(st_usbfs_core.o)
+ .group         0x00000000        0x8 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(st_usbfs_core.o)
+ .group         0x00000000        0x8 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(st_usbfs_core.o)
+ .text          0x00000000        0x0 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(st_usbfs_core.o)
+ .data          0x00000000        0x0 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(st_usbfs_core.o)
+ .bss           0x00000000        0x0 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(st_usbfs_core.o)
+ .debug_macro   0x00000000      0x874 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(st_usbfs_core.o)
+ .debug_macro   0x00000000       0x22 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(st_usbfs_core.o)
+ .debug_macro   0x00000000       0x87 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(st_usbfs_core.o)
+ .debug_macro   0x00000000       0x44 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(st_usbfs_core.o)
+ .debug_macro   0x00000000       0xfd e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(st_usbfs_core.o)
+ .debug_macro   0x00000000       0x22 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(st_usbfs_core.o)
+ .debug_macro   0x00000000      0x1df e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(st_usbfs_core.o)
+ .debug_macro   0x00000000       0x22 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(st_usbfs_core.o)
+ .debug_macro   0x00000000       0xfa e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(st_usbfs_core.o)
+ .debug_macro   0x00000000       0x58 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(st_usbfs_core.o)
+ .debug_macro   0x00000000      0x1b4 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(st_usbfs_core.o)
+ .debug_macro   0x00000000      0x82c e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(st_usbfs_core.o)
+ .debug_macro   0x00000000       0x3a e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(st_usbfs_core.o)
+ .debug_macro   0x00000000      0x29e e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(st_usbfs_core.o)
+ .debug_macro   0x00000000       0x28 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(st_usbfs_core.o)
+ .debug_macro   0x00000000      0x19c e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(st_usbfs_core.o)
+ .debug_macro   0x00000000       0x10 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(st_usbfs_core.o)
+ .debug_macro   0x00000000       0x1c e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(st_usbfs_core.o)
+ .debug_macro   0x00000000       0x10 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(st_usbfs_core.o)
+ .text          0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/5.3 2016q1/bin/../lib/gcc/arm-none-eabi/5.3.1/../../../../arm-none-eabi/lib/armv7-m\libc.a(lib_a-errno.o)
+ .data          0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/5.3 2016q1/bin/../lib/gcc/arm-none-eabi/5.3.1/../../../../arm-none-eabi/lib/armv7-m\libc.a(lib_a-errno.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/5.3 2016q1/bin/../lib/gcc/arm-none-eabi/5.3.1/../../../../arm-none-eabi/lib/armv7-m\libc.a(lib_a-errno.o)
+ .text.__errno  0x00000000        0xc c:/program files (x86)/gnu tools arm embedded/5.3 2016q1/bin/../lib/gcc/arm-none-eabi/5.3.1/../../../../arm-none-eabi/lib/armv7-m\libc.a(lib_a-errno.o)
+ .debug_frame   0x00000000       0x20 c:/program files (x86)/gnu tools arm embedded/5.3 2016q1/bin/../lib/gcc/arm-none-eabi/5.3.1/../../../../arm-none-eabi/lib/armv7-m\libc.a(lib_a-errno.o)
+ .ARM.attributes
+                0x00000000       0x2d c:/program files (x86)/gnu tools arm embedded/5.3 2016q1/bin/../lib/gcc/arm-none-eabi/5.3.1/../../../../arm-none-eabi/lib/armv7-m\libc.a(lib_a-errno.o)
+ .text          0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/5.3 2016q1/bin/../lib/gcc/arm-none-eabi/5.3.1/../../../../arm-none-eabi/lib/armv7-m\libc.a(lib_a-impure.o)
+ .data          0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/5.3 2016q1/bin/../lib/gcc/arm-none-eabi/5.3.1/../../../../arm-none-eabi/lib/armv7-m\libc.a(lib_a-impure.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/5.3 2016q1/bin/../lib/gcc/arm-none-eabi/5.3.1/../../../../arm-none-eabi/lib/armv7-m\libc.a(lib_a-impure.o)
+ .data.impure_data
+                0x00000000      0x428 c:/program files (x86)/gnu tools arm embedded/5.3 2016q1/bin/../lib/gcc/arm-none-eabi/5.3.1/../../../../arm-none-eabi/lib/armv7-m\libc.a(lib_a-impure.o)
+ .data._impure_ptr
+                0x00000000        0x4 c:/program files (x86)/gnu tools arm embedded/5.3 2016q1/bin/../lib/gcc/arm-none-eabi/5.3.1/../../../../arm-none-eabi/lib/armv7-m\libc.a(lib_a-impure.o)
+ .rodata.str1.4
+                0x00000000        0x2 c:/program files (x86)/gnu tools arm embedded/5.3 2016q1/bin/../lib/gcc/arm-none-eabi/5.3.1/../../../../arm-none-eabi/lib/armv7-m\libc.a(lib_a-impure.o)
+ .rodata._global_impure_ptr
+                0x00000000        0x4 c:/program files (x86)/gnu tools arm embedded/5.3 2016q1/bin/../lib/gcc/arm-none-eabi/5.3.1/../../../../arm-none-eabi/lib/armv7-m\libc.a(lib_a-impure.o)
+ .ARM.attributes
+                0x00000000       0x2d c:/program files (x86)/gnu tools arm embedded/5.3 2016q1/bin/../lib/gcc/arm-none-eabi/5.3.1/../../../../arm-none-eabi/lib/armv7-m\libc.a(lib_a-impure.o)
+ .data          0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/5.3 2016q1/bin/../lib/gcc/arm-none-eabi/5.3.1/../../../../arm-none-eabi/lib/armv7-m\libc.a(lib_a-memcpy.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/5.3 2016q1/bin/../lib/gcc/arm-none-eabi/5.3.1/../../../../arm-none-eabi/lib/armv7-m\libc.a(lib_a-memcpy.o)
+ .text          0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/5.3 2016q1/bin/../lib/gcc/arm-none-eabi/5.3.1/../../../../arm-none-eabi/lib/armv7-m\libc.a(lib_a-strlen-stub.o)
+ .data          0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/5.3 2016q1/bin/../lib/gcc/arm-none-eabi/5.3.1/../../../../arm-none-eabi/lib/armv7-m\libc.a(lib_a-strlen-stub.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/5.3 2016q1/bin/../lib/gcc/arm-none-eabi/5.3.1/../../../../arm-none-eabi/lib/armv7-m\libc.a(lib_a-strlen-stub.o)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+rom              0x08000000         0x00010000         xr
+ram              0x20000400         0x00004000         xrw
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+LOAD build/src/cdcacm.o
+LOAD build/src/main.o
+LOAD build/src/ringbuf.o
+LOAD build/src/tick.o
+LOAD build/src/tm1638.o
+LOAD build/src/utils.o
+START GROUP
+LOAD e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a
+LOAD c:/program files (x86)/gnu tools arm embedded/5.3 2016q1/bin/../lib/gcc/arm-none-eabi/5.3.1/../../../../arm-none-eabi/lib/armv7-m\libc.a
+LOAD c:/program files (x86)/gnu tools arm embedded/5.3 2016q1/bin/../lib/gcc/arm-none-eabi/5.3.1/armv7-m\libgcc.a
+LOAD c:/program files (x86)/gnu tools arm embedded/5.3 2016q1/bin/../lib/gcc/arm-none-eabi/5.3.1/../../../../arm-none-eabi/lib/armv7-m\libnosys.a
+END GROUP
+START GROUP
+LOAD c:/program files (x86)/gnu tools arm embedded/5.3 2016q1/bin/../lib/gcc/arm-none-eabi/5.3.1/armv7-m\libgcc.a
+LOAD c:/program files (x86)/gnu tools arm embedded/5.3 2016q1/bin/../lib/gcc/arm-none-eabi/5.3.1/../../../../arm-none-eabi/lib/armv7-m\libc.a
+END GROUP
+                0x00000000                stack_size = 0x0
+                0x00000000                heap_size = 0x0
+
+.text           0x08000000     0x1c38
+ *(.vectors)
+ .vectors       0x08000000      0x150 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(vector.o)
+                0x08000000                vector_table
+ *(.text*)
+ .text.cdcacm_control_request
+                0x08000150       0x3c build/src/cdcacm.o
+ .text.cdcacm_data_rx_cb
+                0x0800018c       0x68 build/src/cdcacm.o
+ .text.cdcacm_data_tx_cb
+                0x080001f4       0x18 build/src/cdcacm.o
+ .text.cdcacm_set_config
+                0x0800020c       0x68 build/src/cdcacm.o
+ .text.cdcacm_init
+                0x08000274       0xc8 build/src/cdcacm.o
+                0x08000274                cdcacm_init
+ .text.cdcacm_manage
+                0x0800033c       0x88 build/src/cdcacm.o
+                0x0800033c                cdcacm_manage
+ .text.cdcacm_input
+                0x080003c4       0x3c build/src/cdcacm.o
+                0x080003c4                cdcacm_input
+ .text.usb_wakeup_isr
+                0x08000400       0x18 build/src/cdcacm.o
+                0x08000400                usb_wakeup_isr
+ .text.usb_lp_can_rx0_isr
+                0x08000418       0x18 build/src/cdcacm.o
+                0x08000418                usb_lp_can_rx0_isr
+ .text.main     0x08000430       0x20 build/src/main.o
+                0x08000430                main
+ .text.iwd_init
+                0x08000450       0x18 build/src/main.o
+ .text.clock_init
+                0x08000468       0x48 build/src/main.o
+ .text.ringbuf_init
+                0x080004b0       0x30 build/src/ringbuf.o
+                0x080004b0                ringbuf_init
+ .text.ringbuf_get
+                0x080004e0       0x50 build/src/ringbuf.o
+                0x080004e0                ringbuf_get
+ .text.ringbuf_put
+                0x08000530       0x50 build/src/ringbuf.o
+                0x08000530                ringbuf_put
+ .text.scs_dwt_cycle_counter_enabled
+                0x08000580       0x2c build/src/tick.o
+ .text.tick_init
+                0x080005ac       0x4c build/src/tick.o
+                0x080005ac                tick_init
+ .text.tick_get
+                0x080005f8       0x14 build/src/tick.o
+                0x080005f8                tick_get
+ .text.tick_delta_time_ms
+                0x0800060c       0x34 build/src/tick.o
+ .text.tick_wait_ms
+                0x08000640       0x2c build/src/tick.o
+                0x08000640                tick_wait_ms
+ .text.tick_expire_ms
+                0x0800066c       0x40 build/src/tick.o
+                0x0800066c                tick_expire_ms
+ .text.sys_tick_handler
+                0x080006ac       0x44 build/src/tick.o
+                0x080006ac                sys_tick_handler
+ .text.gpio_set_mode
+                0x080006f0       0x64 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(gpio.o)
+                0x080006f0                gpio_set_mode
+ .text.gpio_primary_remap
+                0x08000754       0x14 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(gpio.o)
+                0x08000754                gpio_primary_remap
+ .text.rcc_osc_on.part.1
+                0x08000768       0x10 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(rcc.o)
+ .text.rcc_is_osc_ready
+                0x08000778       0x5c e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(rcc.o)
+                0x08000778                rcc_is_osc_ready
+ .text.rcc_wait_for_osc_ready
+                0x080007d4       0x10 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(rcc.o)
+                0x080007d4                rcc_wait_for_osc_ready
+ .text.rcc_osc_on
+                0x080007e4       0x54 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(rcc.o)
+                0x080007e4                rcc_osc_on
+ .text.rcc_set_sysclk_source
+                0x08000838       0x14 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(rcc.o)
+                0x08000838                rcc_set_sysclk_source
+ .text.rcc_set_pll_multiplication_factor
+                0x0800084c       0x14 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(rcc.o)
+                0x0800084c                rcc_set_pll_multiplication_factor
+ .text.rcc_set_pll_source
+                0x08000860       0x14 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(rcc.o)
+                0x08000860                rcc_set_pll_source
+ .text.rcc_set_pllxtpre
+                0x08000874       0x14 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(rcc.o)
+                0x08000874                rcc_set_pllxtpre
+ .text.rcc_set_adcpre
+                0x08000888       0x14 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(rcc.o)
+                0x08000888                rcc_set_adcpre
+ .text.rcc_set_ppre2
+                0x0800089c       0x14 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(rcc.o)
+                0x0800089c                rcc_set_ppre2
+ .text.rcc_set_ppre1
+                0x080008b0       0x14 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(rcc.o)
+                0x080008b0                rcc_set_ppre1
+ .text.rcc_set_hpre
+                0x080008c4       0x14 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(rcc.o)
+                0x080008c4                rcc_set_hpre
+ .text.rcc_clock_setup_in_hse_8mhz_out_72mhz
+                0x080008d8       0x8c e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(rcc.o)
+                0x080008d8                rcc_clock_setup_in_hse_8mhz_out_72mhz
+ .text.gpio_set
+                0x08000964        0x4 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(gpio_common_all.o)
+                0x08000964                gpio_set
+ .text.gpio_clear
+                0x08000968        0x6 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(gpio_common_all.o)
+                0x08000968                gpio_clear
+ *fill*         0x0800096e        0x2 
+ .text.iwdg_start
+                0x08000970       0x10 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(iwdg_common_all.o)
+                0x08000970                iwdg_start
+ .text.iwdg_reload_busy
+                0x08000980       0x10 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(iwdg_common_all.o)
+                0x08000980                iwdg_reload_busy
+ .text.iwdg_prescaler_busy
+                0x08000990       0x10 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(iwdg_common_all.o)
+                0x08000990                iwdg_prescaler_busy
+ .text.iwdg_set_period_ms
+                0x080009a0       0x8c e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(iwdg_common_all.o)
+                0x080009a0                iwdg_set_period_ms
+ .text.iwdg_reset
+                0x08000a2c       0x10 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(iwdg_common_all.o)
+                0x08000a2c                iwdg_reset
+ .text.rcc_periph_clock_enable
+                0x08000a3c       0x1c e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(rcc_common_all.o)
+                0x08000a3c                rcc_periph_clock_enable
+ .text.flash_set_ws
+                0x08000a58       0x14 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(flash_common_f01.o)
+                0x08000a58                flash_set_ws
+ .text.usbd_init
+                0x08000a6c       0x58 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(usb.o)
+                0x08000a6c                usbd_init
+ .text.usbd_poll
+                0x08000ac4        0x8 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(usb.o)
+                0x08000ac4                usbd_poll
+ .text.usbd_ep_setup
+                0x08000acc        0xe e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(usb.o)
+                0x08000acc                usbd_ep_setup
+ .text._usbd_reset
+                0x08000ada       0x34 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(usb.o)
+                0x08000ada                _usbd_reset
+ .text.usbd_ep_write_packet
+                0x08000b0e        0xe e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(usb.o)
+                0x08000b0e                usbd_ep_write_packet
+ .text.usbd_ep_read_packet
+                0x08000b1c        0xe e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(usb.o)
+                0x08000b1c                usbd_ep_read_packet
+ .text.usbd_ep_stall_set
+                0x08000b2a        0x8 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(usb.o)
+                0x08000b2a                usbd_ep_stall_set
+ .text.usbd_ep_stall_get
+                0x08000b32        0x8 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(usb.o)
+                0x08000b32                usbd_ep_stall_get
+ .text.stall_transaction
+                0x08000b3a       0x14 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(usb_control.o)
+ .text.usb_control_recv_chunk
+                0x08000b4e       0x3c e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(usb_control.o)
+ .text.usb_control_send_chunk
+                0x08000b8a       0x56 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(usb_control.o)
+ .text.usb_control_request_dispatch
+                0x08000be0       0x62 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(usb_control.o)
+ .text.usb_control_setup_read
+                0x08000c42       0x6a e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(usb_control.o)
+ .text.usbd_register_control_callback
+                0x08000cac       0x26 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(usb_control.o)
+                0x08000cac                usbd_register_control_callback
+ .text._usbd_control_setup
+                0x08000cd2       0x5a e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(usb_control.o)
+                0x08000cd2                _usbd_control_setup
+ .text._usbd_control_out
+                0x08000d2c       0x86 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(usb_control.o)
+                0x08000d2c                _usbd_control_out
+ .text._usbd_control_in
+                0x08000db2       0x56 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(usb_control.o)
+                0x08000db2                _usbd_control_in
+ .text.usb_standard_set_configuration
+                0x08000e08       0x92 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(usb_standard.o)
+ .text.usb_standard_get_configuration
+                0x08000e9a       0x22 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(usb_standard.o)
+ .text.usb_standard_get_interface
+                0x08000ebc       0x34 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(usb_standard.o)
+ .text.usb_standard_interface_get_status
+                0x08000ef0       0x18 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(usb_standard.o)
+ .text.usb_standard_endpoint_get_status
+                0x08000f08       0x2a e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(usb_standard.o)
+ .text.usb_standard_endpoint_stall
+                0x08000f32       0x10 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(usb_standard.o)
+ .text.usb_standard_endpoint_unstall
+                0x08000f42       0x10 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(usb_standard.o)
+ .text.usb_standard_set_address
+                0x08000f52       0x2a e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(usb_standard.o)
+ .text.usb_standard_set_interface
+                0x08000f7c       0x4a e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(usb_standard.o)
+ .text.usb_standard_get_descriptor
+                0x08000fc6      0x25a e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(usb_standard.o)
+ .text.usb_standard_device_get_status
+                0x08001220       0x18 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(usb_standard.o)
+ .text.usbd_register_set_config_callback
+                0x08001238       0x24 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(usb_standard.o)
+                0x08001238                usbd_register_set_config_callback
+ .text._usbd_standard_request_device
+                0x0800125c       0x20 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(usb_standard.o)
+                0x0800125c                _usbd_standard_request_device
+ .text._usbd_standard_request_interface
+                0x0800127c       0x20 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(usb_standard.o)
+                0x0800127c                _usbd_standard_request_interface
+ .text._usbd_standard_request_endpoint
+                0x0800129c       0x3c e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(usb_standard.o)
+                0x0800129c                _usbd_standard_request_endpoint
+ .text._usbd_standard_request
+                0x080012d8       0x30 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(usb_standard.o)
+                0x080012d8                _usbd_standard_request
+ .text.st_usbfs_v1_usbd_init
+                0x08001308       0x30 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(st_usbfs_v1.o)
+ .text.st_usbfs_copy_to_pm
+                0x08001338       0x18 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(st_usbfs_v1.o)
+                0x08001338                st_usbfs_copy_to_pm
+ .text.st_usbfs_copy_from_pm
+                0x08001350       0x2a e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(st_usbfs_v1.o)
+                0x08001350                st_usbfs_copy_from_pm
+ .text.blocking_handler
+                0x0800137a        0x2 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(vector.o)
+                0x0800137a                usart3_isr
+                0x0800137a                rtc_isr
+                0x0800137a                tim7_isr
+                0x0800137a                adc1_2_isr
+                0x0800137a                tim1_trg_com_isr
+                0x0800137a                usb_hp_can_tx_isr
+                0x0800137a                tim6_isr
+                0x0800137a                blocking_handler
+                0x0800137a                tim5_isr
+                0x0800137a                otg_fs_isr
+                0x0800137a                spi1_isr
+                0x0800137a                exti2_isr
+                0x0800137a                dma1_channel6_isr
+                0x0800137a                can_rx1_isr
+                0x0800137a                dma1_channel5_isr
+                0x0800137a                dma2_channel5_isr
+                0x0800137a                usart1_isr
+                0x0800137a                usage_fault_handler
+                0x0800137a                tim8_trg_com_isr
+                0x0800137a                can2_rx0_isr
+                0x0800137a                tim1_brk_isr
+                0x0800137a                can2_rx1_isr
+                0x0800137a                tim1_cc_isr
+                0x0800137a                sdio_isr
+                0x0800137a                eth_isr
+                0x0800137a                dma1_channel4_isr
+                0x0800137a                tim8_brk_isr
+                0x0800137a                dma2_channel4_5_isr
+                0x0800137a                pvd_isr
+                0x0800137a                rcc_isr
+                0x0800137a                flash_isr
+                0x0800137a                uart4_isr
+                0x0800137a                rtc_alarm_isr
+                0x0800137a                exti15_10_isr
+                0x0800137a                hard_fault_handler
+                0x0800137a                exti1_isr
+                0x0800137a                i2c1_ev_isr
+                0x0800137a                dma2_channel1_isr
+                0x0800137a                spi2_isr
+                0x0800137a                tim8_up_isr
+                0x0800137a                dma2_channel2_isr
+                0x0800137a                exti3_isr
+                0x0800137a                adc3_isr
+                0x0800137a                tim3_isr
+                0x0800137a                usart2_isr
+                0x0800137a                i2c2_er_isr
+                0x0800137a                i2c2_ev_isr
+                0x0800137a                uart5_isr
+                0x0800137a                fsmc_isr
+                0x0800137a                dma1_channel1_isr
+                0x0800137a                exti4_isr
+                0x0800137a                mem_manage_handler
+                0x0800137a                can2_tx_isr
+                0x0800137a                exti9_5_isr
+                0x0800137a                dma2_channel3_isr
+                0x0800137a                dma1_channel7_isr
+                0x0800137a                tim1_up_isr
+                0x0800137a                can2_sce_isr
+                0x0800137a                tim4_isr
+                0x0800137a                dma1_channel2_isr
+                0x0800137a                i2c1_er_isr
+                0x0800137a                can_sce_isr
+                0x0800137a                tim8_cc_isr
+                0x0800137a                tamper_isr
+                0x0800137a                eth_wkup_isr
+                0x0800137a                bus_fault_handler
+                0x0800137a                wwdg_isr
+                0x0800137a                dma1_channel3_isr
+                0x0800137a                spi3_isr
+                0x0800137a                tim2_isr
+                0x0800137a                exti0_isr
+ .text.null_handler
+                0x0800137c        0x2 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(vector.o)
+                0x0800137c                sv_call_handler
+                0x0800137c                pend_sv_handler
+                0x0800137c                debug_monitor_handler
+                0x0800137c                nmi_handler
+                0x0800137c                null_handler
+ *fill*         0x0800137e        0x2 
+ .text.reset_handler
+                0x08001380       0x90 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(vector.o)
+                0x08001380                reset_handler
+ .text.systick_set_reload
+                0x08001410       0x10 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(systick.o)
+                0x08001410                systick_set_reload
+ .text.systick_set_clocksource
+                0x08001420       0x18 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(systick.o)
+                0x08001420                systick_set_clocksource
+ .text.systick_interrupt_enable
+                0x08001438       0x10 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(systick.o)
+                0x08001438                systick_interrupt_enable
+ .text.systick_counter_enable
+                0x08001448       0x10 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(systick.o)
+                0x08001448                systick_counter_enable
+ .text.nvic_enable_irq
+                0x08001458       0x1a e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(nvic.o)
+                0x08001458                nvic_enable_irq
+ *fill*         0x08001472        0x2 
+ .text.nvic_set_priority
+                0x08001474       0x20 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(nvic.o)
+                0x08001474                nvic_set_priority
+ .text.st_usbfs_set_address
+                0x08001494       0x10 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(st_usbfs_core.o)
+                0x08001494                st_usbfs_set_address
+ .text.st_usbfs_set_ep_rx_bufsize
+                0x080014a4       0x3c e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(st_usbfs_core.o)
+                0x080014a4                st_usbfs_set_ep_rx_bufsize
+ .text.st_usbfs_ep_setup
+                0x080014e0      0x124 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(st_usbfs_core.o)
+                0x080014e0                st_usbfs_ep_setup
+ .text.st_usbfs_endpoints_reset
+                0x08001604       0x44 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(st_usbfs_core.o)
+                0x08001604                st_usbfs_endpoints_reset
+ .text.st_usbfs_ep_stall_set
+                0x08001648       0xb8 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(st_usbfs_core.o)
+                0x08001648                st_usbfs_ep_stall_set
+ .text.st_usbfs_ep_stall_get
+                0x08001700       0x38 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(st_usbfs_core.o)
+                0x08001700                st_usbfs_ep_stall_get
+ .text.st_usbfs_ep_nak_set
+                0x08001738       0x3c e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(st_usbfs_core.o)
+                0x08001738                st_usbfs_ep_nak_set
+ .text.st_usbfs_ep_write_packet
+                0x08001774       0x80 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(st_usbfs_core.o)
+                0x08001774                st_usbfs_ep_write_packet
+ .text.st_usbfs_ep_read_packet
+                0x080017f4       0xac e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(st_usbfs_core.o)
+                0x080017f4                st_usbfs_ep_read_packet
+ .text.st_usbfs_poll
+                0x080018a0       0xe4 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(st_usbfs_core.o)
+                0x080018a0                st_usbfs_poll
+ .text          0x08001984       0xec c:/program files (x86)/gnu tools arm embedded/5.3 2016q1/bin/../lib/gcc/arm-none-eabi/5.3.1/../../../../arm-none-eabi/lib/armv7-m\libc.a(lib_a-memcpy.o)
+                0x08001984                memcpy
+ .text.strlen   0x08001a70       0x5c c:/program files (x86)/gnu tools arm embedded/5.3 2016q1/bin/../lib/gcc/arm-none-eabi/5.3.1/../../../../arm-none-eabi/lib/armv7-m\libc.a(lib_a-strlen-stub.o)
+                0x08001a70                strlen
+                0x08001acc                . = ALIGN (0x4)
+ *(.rodata*)
+ .rodata.dev    0x08001acc       0x12 build/src/cdcacm.o
+ *fill*         0x08001ade        0x2 
+ .rodata.comm_endp
+                0x08001ae0        0xf build/src/cdcacm.o
+ *fill*         0x08001aef        0x1 
+ .rodata.data_endp
+                0x08001af0       0x1e build/src/cdcacm.o
+ *fill*         0x08001b0e        0x2 
+ .rodata.cdcacm_functional_descriptors
+                0x08001b10       0x13 build/src/cdcacm.o
+ *fill*         0x08001b23        0x1 
+ .rodata.comm_iface
+                0x08001b24       0x15 build/src/cdcacm.o
+ *fill*         0x08001b39        0x3 
+ .rodata.data_iface
+                0x08001b3c       0x15 build/src/cdcacm.o
+ *fill*         0x08001b51        0x3 
+ .rodata.ifaces
+                0x08001b54       0x20 build/src/cdcacm.o
+ .rodata.config
+                0x08001b74        0xd build/src/cdcacm.o
+ *fill*         0x08001b81        0x3 
+ .rodata        0x08001b84       0x1d build/src/cdcacm.o
+ *fill*         0x08001ba1        0x3 
+ .rodata.CSWTCH.24
+                0x08001ba4       0x28 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(usb_standard.o)
+ .rodata.CSWTCH.26
+                0x08001bcc       0x30 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(usb_standard.o)
+ .rodata.st_usbfs_v1_usb_driver
+                0x08001bfc       0x34 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(st_usbfs_v1.o)
+                0x08001bfc                st_usbfs_v1_usb_driver
+ .rodata        0x08001c30        0x8 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(st_usbfs_core.o)
+                0x08001c38                . = ALIGN (0x4)
+
+.glue_7         0x08001c38        0x0
+ .glue_7        0x08001c38        0x0 linker stubs
+
+.glue_7t        0x08001c38        0x0
+ .glue_7t       0x08001c38        0x0 linker stubs
+
+.vfp11_veneer   0x08001c38        0x0
+ .vfp11_veneer  0x08001c38        0x0 linker stubs
+
+.v4_bx          0x08001c38        0x0
+ .v4_bx         0x08001c38        0x0 linker stubs
+
+.iplt           0x08001c38        0x0
+ .iplt          0x08001c38        0x0 build/src/cdcacm.o
+
+.rel.dyn        0x08001c38        0x0
+ .rel.iplt      0x08001c38        0x0 build/src/cdcacm.o
+
+.preinit_array  0x08001c38        0x0
+                0x08001c38                . = ALIGN (0x4)
+                0x08001c38                __preinit_array_start = .
+ *(.preinit_array)
+                0x08001c38                __preinit_array_end = .
+
+.init_array     0x08001c38        0x0
+                0x08001c38                . = ALIGN (0x4)
+                0x08001c38                __init_array_start = .
+ *(SORT(.init_array.*))
+ *(.init_array)
+                0x08001c38                __init_array_end = .
+
+.fini_array     0x08001c38        0x0
+                0x08001c38                . = ALIGN (0x4)
+                0x08001c38                __fini_array_start = .
+ *(.fini_array)
+ *(SORT(.fini_array.*))
+                0x08001c38                __fini_array_end = .
+
+.ARM.extab
+ *(.ARM.extab*)
+
+.ARM.exidx      0x08001c38        0x0
+                0x08001c38                __exidx_start = .
+ *(.ARM.exidx*)
+                0x08001c38                __exidx_end = .
+                0x08001c38                . = ALIGN (0x4)
+                0x08001c38                _etext = .
+
+.data           0x20000400       0x18 load address 0x08001c38
+                0x20000400                _data = .
+ *(.data*)
+ .data.usb_strings
+                0x20000400        0xc build/src/cdcacm.o
+ .data.rcc_ahb_frequency
+                0x2000040c        0x4 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(rcc.o)
+                0x2000040c                rcc_ahb_frequency
+ .data.rcc_apb1_frequency
+                0x20000410        0x4 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(rcc.o)
+                0x20000410                rcc_apb1_frequency
+ .data.rcc_apb2_frequency
+                0x20000414        0x4 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(rcc.o)
+                0x20000414                rcc_apb2_frequency
+                0x20000418                . = ALIGN (0x4)
+                0x20000418                _edata = .
+                0x08001c38                _data_loadaddr = LOADADDR (.data)
+
+.igot.plt       0x20000418        0x0 load address 0x08001c50
+ .igot.plt      0x20000418        0x0 build/src/cdcacm.o
+
+.bss            0x20000418      0x3ec load address 0x08001c50
+ *(.bss*)
+ .bss.cdc       0x20000418      0x2e0 build/src/cdcacm.o
+ .bss.g_ulSysTickCount
+                0x200006f8        0x4 build/src/tick.o
+                0x200006f8                g_ulSysTickCount
+ .bss.g_NbCyclePerSecond
+                0x200006fc        0x4 build/src/tick.o
+                0x200006fc                g_NbCyclePerSecond
+ .bss.st_usbfs_force_nak
+                0x20000700        0x8 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(st_usbfs_core.o)
+                0x20000700                st_usbfs_force_nak
+ .bss.st_usbfs_dev
+                0x20000708       0xfc e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(st_usbfs_core.o)
+                0x20000708                st_usbfs_dev
+ *(COMMON)
+                0x20000804                . = ALIGN (0x4)
+                0x20000804                _ebss = .
+
+/DISCARD/
+ *(.eh_frame)
+                0x20000804                . = ALIGN (0x4)
+                0x20000804                end = .
+                0x20004400                PROVIDE (_stack, (ORIGIN (ram) + LENGTH (ram)))
+OUTPUT(build/timer-rtc-fw.elf elf32-littlearm)
+
+.debug_info     0x00000000     0x8324
+ .debug_info    0x00000000      0xb4e build/src/cdcacm.o
+ .debug_info    0x00000b4e      0x2b6 build/src/main.o
+ .debug_info    0x00000e04      0x199 build/src/ringbuf.o
+ .debug_info    0x00000f9d      0x2f2 build/src/tick.o
+ .debug_info    0x0000128f      0x1df e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(gpio.o)
+ .debug_info    0x0000146e     0x116a e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(rcc.o)
+ .debug_info    0x000025d8      0x22c e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(gpio_common_all.o)
+ .debug_info    0x00002804      0x14c e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(iwdg_common_all.o)
+ .debug_info    0x00002950      0x50a e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(rcc_common_all.o)
+ .debug_info    0x00002e5a      0x278 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(flash_common_f01.o)
+ .debug_info    0x000030d2      0xdb1 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(usb.o)
+ .debug_info    0x00003e83      0xed8 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(usb_control.o)
+ .debug_info    0x00004d5b     0x1449 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(usb_standard.o)
+ .debug_info    0x000061a4      0xc16 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(st_usbfs_v1.o)
+ .debug_info    0x00006dba      0x2a8 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(vector.o)
+ .debug_info    0x00007062      0x255 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(systick.o)
+ .debug_info    0x000072b7      0x214 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(nvic.o)
+ .debug_info    0x000074cb      0xe59 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(st_usbfs_core.o)
+
+.debug_abbrev   0x00000000     0x1c39
+ .debug_abbrev  0x00000000      0x22d build/src/cdcacm.o
+ .debug_abbrev  0x0000022d       0xc6 build/src/main.o
+ .debug_abbrev  0x000002f3       0xe8 build/src/ringbuf.o
+ .debug_abbrev  0x000003db      0x171 build/src/tick.o
+ .debug_abbrev  0x0000054c       0xb7 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(gpio.o)
+ .debug_abbrev  0x00000603      0x272 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(rcc.o)
+ .debug_abbrev  0x00000875      0x10e e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(gpio_common_all.o)
+ .debug_abbrev  0x00000983       0xaf e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(iwdg_common_all.o)
+ .debug_abbrev  0x00000a32      0x105 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(rcc_common_all.o)
+ .debug_abbrev  0x00000b37       0xcd e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(flash_common_f01.o)
+ .debug_abbrev  0x00000c04      0x1f2 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(usb.o)
+ .debug_abbrev  0x00000df6      0x317 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(usb_control.o)
+ .debug_abbrev  0x0000110d      0x3da e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(usb_standard.o)
+ .debug_abbrev  0x000014e7      0x1d6 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(st_usbfs_v1.o)
+ .debug_abbrev  0x000016bd      0x146 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(vector.o)
+ .debug_abbrev  0x00001803      0x132 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(systick.o)
+ .debug_abbrev  0x00001935       0xa6 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(nvic.o)
+ .debug_abbrev  0x000019db      0x25e e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(st_usbfs_core.o)
+
+.debug_aranges  0x00000000      0x788
+ .debug_aranges
+                0x00000000       0x80 build/src/cdcacm.o
+ .debug_aranges
+                0x00000080       0x38 build/src/main.o
+ .debug_aranges
+                0x000000b8       0x30 build/src/ringbuf.o
+ .debug_aranges
+                0x000000e8       0x70 build/src/tick.o
+ .debug_aranges
+                0x00000158       0x38 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(gpio.o)
+ .debug_aranges
+                0x00000190      0x168 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(rcc.o)
+ .debug_aranges
+                0x000002f8       0x50 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(gpio_common_all.o)
+ .debug_aranges
+                0x00000348       0x40 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(iwdg_common_all.o)
+ .debug_aranges
+                0x00000388       0x58 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(rcc_common_all.o)
+ .debug_aranges
+                0x000003e0       0x88 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(flash_common_f01.o)
+ .debug_aranges
+                0x00000468       0x88 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(usb.o)
+ .debug_aranges
+                0x000004f0       0x60 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(usb_control.o)
+ .debug_aranges
+                0x00000550       0x98 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(usb_standard.o)
+ .debug_aranges
+                0x000005e8       0x30 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(st_usbfs_v1.o)
+ .debug_aranges
+                0x00000618       0x30 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(vector.o)
+ .debug_aranges
+                0x00000648       0x78 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(systick.o)
+ .debug_aranges
+                0x000006c0       0x60 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(nvic.o)
+ .debug_aranges
+                0x00000720       0x68 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(st_usbfs_core.o)
+
+.debug_ranges   0x00000000      0x798
+ .debug_ranges  0x00000000       0x70 build/src/cdcacm.o
+ .debug_ranges  0x00000070       0x28 build/src/main.o
+ .debug_ranges  0x00000098       0x20 build/src/ringbuf.o
+ .debug_ranges  0x000000b8       0x60 build/src/tick.o
+ .debug_ranges  0x00000118       0x28 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(gpio.o)
+ .debug_ranges  0x00000140      0x1b8 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(rcc.o)
+ .debug_ranges  0x000002f8       0x40 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(gpio_common_all.o)
+ .debug_ranges  0x00000338       0x30 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(iwdg_common_all.o)
+ .debug_ranges  0x00000368       0x48 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(rcc_common_all.o)
+ .debug_ranges  0x000003b0       0x78 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(flash_common_f01.o)
+ .debug_ranges  0x00000428       0x78 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(usb.o)
+ .debug_ranges  0x000004a0       0x68 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(usb_control.o)
+ .debug_ranges  0x00000508       0xf0 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(usb_standard.o)
+ .debug_ranges  0x000005f8       0x20 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(st_usbfs_v1.o)
+ .debug_ranges  0x00000618       0x20 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(vector.o)
+ .debug_ranges  0x00000638       0x68 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(systick.o)
+ .debug_ranges  0x000006a0       0x50 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(nvic.o)
+ .debug_ranges  0x000006f0       0xa8 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(st_usbfs_core.o)
+
+.debug_line     0x00000000     0x4195
+ .debug_line    0x00000000      0x2fe build/src/cdcacm.o
+ .debug_line    0x000002fe      0x113 build/src/main.o
+ .debug_line    0x00000411      0x15c build/src/ringbuf.o
+ .debug_line    0x0000056d      0x25e build/src/tick.o
+ .debug_line    0x000007cb      0x346 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(gpio.o)
+ .debug_line    0x00000b11      0x6f4 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(rcc.o)
+ .debug_line    0x00001205      0x37a e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(gpio_common_all.o)
+ .debug_line    0x0000157f      0x373 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(iwdg_common_all.o)
+ .debug_line    0x000018f2      0x37f e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(rcc_common_all.o)
+ .debug_line    0x00001c71      0x405 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(flash_common_f01.o)
+ .debug_line    0x00002076      0x40b e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(usb.o)
+ .debug_line    0x00002481      0x451 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(usb_control.o)
+ .debug_line    0x000028d2      0x584 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(usb_standard.o)
+ .debug_line    0x00002e56      0x421 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(st_usbfs_v1.o)
+ .debug_line    0x00003277      0x38c e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(vector.o)
+ .debug_line    0x00003603      0x32a e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(systick.o)
+ .debug_line    0x0000392d      0x34a e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(nvic.o)
+ .debug_line    0x00003c77      0x51e e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(st_usbfs_core.o)
+
+.debug_str      0x00000000    0x13f94
+ .debug_str     0x00000000      0x721 build/src/cdcacm.o
+                                0x856 (size before relaxing)
+ .debug_str     0x00000721      0x25a build/src/main.o
+                                0x3f5 (size before relaxing)
+ .debug_str     0x0000097b       0x38 build/src/ringbuf.o
+                                0x1e5 (size before relaxing)
+ .debug_str     0x000009b3      0x129 build/src/tick.o
+                                0x2ed (size before relaxing)
+ .debug_str     0x00000adc     0x79fc e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(gpio.o)
+                               0x7bb3 (size before relaxing)
+ .debug_str     0x000084d8     0x30c8 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(rcc.o)
+                               0x747e (size before relaxing)
+ .debug_str     0x0000b5a0       0x7a e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(gpio_common_all.o)
+                               0x7ba7 (size before relaxing)
+ .debug_str     0x0000b61a      0x27c e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(iwdg_common_all.o)
+                               0x45f2 (size before relaxing)
+ .debug_str     0x0000b896      0x30d e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(rcc_common_all.o)
+                               0x6cf4 (size before relaxing)
+ .debug_str     0x0000bba3      0x179 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(flash_common_f01.o)
+                               0x4c5a (size before relaxing)
+ .debug_str     0x0000bd1c     0x3497 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(usb.o)
+                               0x7001 (size before relaxing)
+ .debug_str     0x0000f1b3      0x260 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(usb_control.o)
+                               0x70d1 (size before relaxing)
+ .debug_str     0x0000f413      0x2b5 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(usb_standard.o)
+                               0x7198 (size before relaxing)
+ .debug_str     0x0000f6c8     0x1581 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(st_usbfs_v1.o)
+                               0x8dc6 (size before relaxing)
+ .debug_str     0x00010c49     0x24ed e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(vector.o)
+                               0x5d05 (size before relaxing)
+ .debug_str     0x00013136      0x34b e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(systick.o)
+                               0x3b73 (size before relaxing)
+ .debug_str     0x00013481      0x9f0 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(nvic.o)
+                               0x4a10 (size before relaxing)
+ .debug_str     0x00013e71      0x123 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(st_usbfs_core.o)
+                               0x8cd5 (size before relaxing)
+
+.comment        0x00000000       0x6e
+ .comment       0x00000000       0x6e build/src/cdcacm.o
+                                 0x6f (size before relaxing)
+ .comment       0x0000006e       0x6f build/src/main.o
+ .comment       0x0000006e       0x6f build/src/ringbuf.o
+ .comment       0x0000006e       0x6f build/src/tick.o
+ .comment       0x0000006e       0x6f e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(gpio.o)
+ .comment       0x0000006e       0x6f e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(rcc.o)
+ .comment       0x0000006e       0x6f e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(gpio_common_all.o)
+ .comment       0x0000006e       0x6f e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(iwdg_common_all.o)
+ .comment       0x0000006e       0x6f e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(rcc_common_all.o)
+ .comment       0x0000006e       0x6f e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(flash_common_f01.o)
+ .comment       0x0000006e       0x6f e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(usb.o)
+ .comment       0x0000006e       0x6f e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(usb_control.o)
+ .comment       0x0000006e       0x6f e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(usb_standard.o)
+ .comment       0x0000006e       0x6f e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(st_usbfs_v1.o)
+ .comment       0x0000006e       0x6f e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(vector.o)
+ .comment       0x0000006e       0x6f e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(systick.o)
+ .comment       0x0000006e       0x6f e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(nvic.o)
+ .comment       0x0000006e       0x6f e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(st_usbfs_core.o)
+
+.ARM.attributes
+                0x00000000       0x31
+ .ARM.attributes
+                0x00000000       0x33 build/src/cdcacm.o
+ .ARM.attributes
+                0x00000033       0x33 build/src/main.o
+ .ARM.attributes
+                0x00000066       0x33 build/src/ringbuf.o
+ .ARM.attributes
+                0x00000099       0x33 build/src/tick.o
+ .ARM.attributes
+                0x000000cc       0x33 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(gpio.o)
+ .ARM.attributes
+                0x000000ff       0x33 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(rcc.o)
+ .ARM.attributes
+                0x00000132       0x33 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(gpio_common_all.o)
+ .ARM.attributes
+                0x00000165       0x33 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(iwdg_common_all.o)
+ .ARM.attributes
+                0x00000198       0x33 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(rcc_common_all.o)
+ .ARM.attributes
+                0x000001cb       0x33 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(flash_common_f01.o)
+ .ARM.attributes
+                0x000001fe       0x33 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(usb.o)
+ .ARM.attributes
+                0x00000231       0x33 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(usb_control.o)
+ .ARM.attributes
+                0x00000264       0x33 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(usb_standard.o)
+ .ARM.attributes
+                0x00000297       0x33 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(st_usbfs_v1.o)
+ .ARM.attributes
+                0x000002ca       0x33 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(vector.o)
+ .ARM.attributes
+                0x000002fd       0x33 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(systick.o)
+ .ARM.attributes
+                0x00000330       0x33 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(nvic.o)
+ .ARM.attributes
+                0x00000363       0x33 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(st_usbfs_core.o)
+ .ARM.attributes
+                0x00000396       0x1b c:/program files (x86)/gnu tools arm embedded/5.3 2016q1/bin/../lib/gcc/arm-none-eabi/5.3.1/../../../../arm-none-eabi/lib/armv7-m\libc.a(lib_a-memcpy.o)
+ .ARM.attributes
+                0x000003b1       0x2d c:/program files (x86)/gnu tools arm embedded/5.3 2016q1/bin/../lib/gcc/arm-none-eabi/5.3.1/../../../../arm-none-eabi/lib/armv7-m\libc.a(lib_a-strlen-stub.o)
+
+.debug_frame    0x00000000     0x1250
+ .debug_frame   0x00000000      0x1e4 build/src/cdcacm.o
+ .debug_frame   0x000001e4       0x88 build/src/main.o
+ .debug_frame   0x0000026c       0x88 build/src/ringbuf.o
+ .debug_frame   0x000002f4      0x184 build/src/tick.o
+ .debug_frame   0x00000478       0x64 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(gpio.o)
+ .debug_frame   0x000004dc      0x300 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(rcc.o)
+ .debug_frame   0x000007dc       0x80 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(gpio_common_all.o)
+ .debug_frame   0x0000085c       0x68 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(iwdg_common_all.o)
+ .debug_frame   0x000008c4       0xb0 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(rcc_common_all.o)
+ .debug_frame   0x00000974      0x120 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(flash_common_f01.o)
+ .debug_frame   0x00000a94      0x13c e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(usb.o)
+ .debug_frame   0x00000bd0      0x154 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(usb_control.o)
+ .debug_frame   0x00000d24      0x1ec e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(usb_standard.o)
+ .debug_frame   0x00000f10       0x58 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(st_usbfs_v1.o)
+ .debug_frame   0x00000f68       0x40 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(vector.o)
+ .debug_frame   0x00000fa8       0xd8 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(systick.o)
+ .debug_frame   0x00001080       0xa0 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(nvic.o)
+ .debug_frame   0x00001120      0x110 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(st_usbfs_core.o)
+ .debug_frame   0x00001230       0x20 c:/program files (x86)/gnu tools arm embedded/5.3 2016q1/bin/../lib/gcc/arm-none-eabi/5.3.1/../../../../arm-none-eabi/lib/armv7-m\libc.a(lib_a-strlen-stub.o)
+
+.debug_loc      0x00000000     0x30f2
+ .debug_loc     0x00000000      0x19f e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(gpio.o)
+ .debug_loc     0x0000019f      0x4ba e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(rcc.o)
+ .debug_loc     0x00000659       0x97 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(gpio_common_all.o)
+ .debug_loc     0x000006f0      0x10f e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(iwdg_common_all.o)
+ .debug_loc     0x000007ff      0x108 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(rcc_common_all.o)
+ .debug_loc     0x00000907       0xd3 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(flash_common_f01.o)
+ .debug_loc     0x000009da      0x4b1 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(usb.o)
+ .debug_loc     0x00000e8b      0x58d e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(usb_control.o)
+ .debug_loc     0x00001418     0x1148 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(usb_standard.o)
+ .debug_loc     0x00002560      0x157 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(st_usbfs_v1.o)
+ .debug_loc     0x000026b7       0xdf e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(vector.o)
+ .debug_loc     0x00002796      0x136 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(systick.o)
+ .debug_loc     0x000028cc      0x129 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(nvic.o)
+ .debug_loc     0x000029f5      0x6fd e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(st_usbfs_core.o)
+
+.debug_macro    0x00000000     0x4e2f
+ .debug_macro   0x00000000       0xb9 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(gpio.o)
+ .debug_macro   0x000000b9      0x874 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(gpio.o)
+ .debug_macro   0x0000092d       0x22 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(gpio.o)
+ .debug_macro   0x0000094f       0x87 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(gpio.o)
+ .debug_macro   0x000009d6       0x44 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(gpio.o)
+ .debug_macro   0x00000a1a       0xfd e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(gpio.o)
+ .debug_macro   0x00000b17       0x22 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(gpio.o)
+ .debug_macro   0x00000b39      0x1df e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(gpio.o)
+ .debug_macro   0x00000d18       0x22 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(gpio.o)
+ .debug_macro   0x00000d3a       0xfa e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(gpio.o)
+ .debug_macro   0x00000e34       0x58 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(gpio.o)
+ .debug_macro   0x00000e8c      0x1b4 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(gpio.o)
+ .debug_macro   0x00001040       0x76 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(gpio.o)
+ .debug_macro   0x000010b6      0xdfd e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(gpio.o)
+ .debug_macro   0x00001eb3       0xe0 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(rcc.o)
+ .debug_macro   0x00001f93       0x16 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(rcc.o)
+ .debug_macro   0x00001fa9      0x82c e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(rcc.o)
+ .debug_macro   0x000027d5       0xdc e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(rcc.o)
+ .debug_macro   0x000028b1       0x82 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(rcc.o)
+ .debug_macro   0x00002933       0xb9 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(gpio_common_all.o)
+ .debug_macro   0x000029ec       0xc6 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(iwdg_common_all.o)
+ .debug_macro   0x00002ab2       0x70 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(iwdg_common_all.o)
+ .debug_macro   0x00002b22       0xcf e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(rcc_common_all.o)
+ .debug_macro   0x00002bf1       0xb9 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(flash_common_f01.o)
+ .debug_macro   0x00002caa      0x144 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(usb.o)
+ .debug_macro   0x00002dee       0x4c e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(usb.o)
+ .debug_macro   0x00002e3a       0x8d e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(usb.o)
+ .debug_macro   0x00002ec7       0x35 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(usb.o)
+ .debug_macro   0x00002efc       0x9c e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(usb.o)
+ .debug_macro   0x00002f98      0x174 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(usb.o)
+ .debug_macro   0x0000310c       0x4a e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(usb.o)
+ .debug_macro   0x00003156       0x52 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(usb.o)
+ .debug_macro   0x000031a8       0x16 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(usb.o)
+ .debug_macro   0x000031be       0x43 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(usb.o)
+ .debug_macro   0x00003201      0x187 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(usb.o)
+ .debug_macro   0x00003388      0x30d e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(usb.o)
+ .debug_macro   0x00003695       0x10 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(usb.o)
+ .debug_macro   0x000036a5       0x35 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(usb.o)
+ .debug_macro   0x000036da      0x196 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(usb.o)
+ .debug_macro   0x00003870       0x10 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(usb.o)
+ .debug_macro   0x00003880       0x1c e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(usb.o)
+ .debug_macro   0x0000389c      0x15b e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(usb_control.o)
+ .debug_macro   0x000039f7       0x16 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(usb_control.o)
+ .debug_macro   0x00003a0d      0x10e e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(usb_control.o)
+ .debug_macro   0x00003b1b       0x8d e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(usb_control.o)
+ .debug_macro   0x00003ba8       0x16 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(usb_control.o)
+ .debug_macro   0x00003bbe       0x29 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(usb_control.o)
+ .debug_macro   0x00003be7      0x144 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(usb_standard.o)
+ .debug_macro   0x00003d2b      0x10e e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(st_usbfs_v1.o)
+ .debug_macro   0x00003e39       0x3a e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(st_usbfs_v1.o)
+ .debug_macro   0x00003e73      0x29e e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(st_usbfs_v1.o)
+ .debug_macro   0x00004111       0x28 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(st_usbfs_v1.o)
+ .debug_macro   0x00004139      0x19c e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(st_usbfs_v1.o)
+ .debug_macro   0x000042d5       0x10 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(st_usbfs_v1.o)
+ .debug_macro   0x000042e5       0xd0 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(vector.o)
+ .debug_macro   0x000043b5      0x3a1 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(vector.o)
+ .debug_macro   0x00004756       0x6a e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(vector.o)
+ .debug_macro   0x000047c0      0x1a2 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(vector.o)
+ .debug_macro   0x00004962       0x93 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(systick.o)
+ .debug_macro   0x000049f5       0x64 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(systick.o)
+ .debug_macro   0x00004a59       0xb4 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(nvic.o)
+ .debug_macro   0x00004b0d       0x64 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(nvic.o)
+ .debug_macro   0x00004b71      0x1b0 e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(nvic.o)
+ .debug_macro   0x00004d21      0x10e e:/Project/Timer-RTC-STM32-Tm1638/control-board-fw/vendor/libopencm3/lib\libopencm3_stm32f1.a(st_usbfs_core.o)

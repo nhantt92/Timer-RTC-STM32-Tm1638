@@ -1,0 +1,270 @@
+Archive member included to satisfy reference by file (symbol)
+
+/tools/stm32/libopencm3/lib/libopencm3_stm32f1.a(vector.o)
+                              (reset_handler)
+
+Discarded input sections
+
+ .group         0x0000000000000000        0x8 /tools/stm32/libopencm3/lib/libopencm3_stm32f1.a(vector.o)
+ .group         0x0000000000000000        0x8 /tools/stm32/libopencm3/lib/libopencm3_stm32f1.a(vector.o)
+ .group         0x0000000000000000        0x8 /tools/stm32/libopencm3/lib/libopencm3_stm32f1.a(vector.o)
+ .group         0x0000000000000000        0x8 /tools/stm32/libopencm3/lib/libopencm3_stm32f1.a(vector.o)
+ .group         0x0000000000000000        0x8 /tools/stm32/libopencm3/lib/libopencm3_stm32f1.a(vector.o)
+ .group         0x0000000000000000        0x8 /tools/stm32/libopencm3/lib/libopencm3_stm32f1.a(vector.o)
+ .group         0x0000000000000000        0x8 /tools/stm32/libopencm3/lib/libopencm3_stm32f1.a(vector.o)
+ .group         0x0000000000000000        0x8 /tools/stm32/libopencm3/lib/libopencm3_stm32f1.a(vector.o)
+ .group         0x0000000000000000        0x8 /tools/stm32/libopencm3/lib/libopencm3_stm32f1.a(vector.o)
+ .group         0x0000000000000000        0x8 /tools/stm32/libopencm3/lib/libopencm3_stm32f1.a(vector.o)
+ .group         0x0000000000000000        0x8 /tools/stm32/libopencm3/lib/libopencm3_stm32f1.a(vector.o)
+ .group         0x0000000000000000        0x8 /tools/stm32/libopencm3/lib/libopencm3_stm32f1.a(vector.o)
+ .text          0x0000000000000000        0x0 /tools/stm32/libopencm3/lib/libopencm3_stm32f1.a(vector.o)
+ .data          0x0000000000000000        0x0 /tools/stm32/libopencm3/lib/libopencm3_stm32f1.a(vector.o)
+ .bss           0x0000000000000000        0x0 /tools/stm32/libopencm3/lib/libopencm3_stm32f1.a(vector.o)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+rom              0x0000000008000000 0x0000000000020000 xr
+ram              0x0000000020000000 0x0000000000005000 xrw
+*default*        0x0000000000000000 0xffffffffffffffff
+
+Linker script and memory map
+
+START GROUP
+LOAD /tools/stm32/libopencm3/lib/libopencm3_stm32f1.a
+LOAD /Volumes/tools/stm32/gcc/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv7-m/libc.a
+LOAD /Volumes/tools/stm32/gcc/bin/../lib/gcc/arm-none-eabi/5.2.1/armv7-m/libgcc.a
+LOAD /Volumes/tools/stm32/gcc/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv7-m/libnosys.a
+END GROUP
+START GROUP
+LOAD /Volumes/tools/stm32/gcc/bin/../lib/gcc/arm-none-eabi/5.2.1/armv7-m/libgcc.a
+LOAD /Volumes/tools/stm32/gcc/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv7-m/libc.a
+END GROUP
+                0x0000000000000000                stack_size = 0x0
+                0x0000000000000000                heap_size = 0x0
+
+.text           0x0000000008000000      0x1e4
+ *(.vectors)
+ .vectors       0x0000000008000000      0x150 /tools/stm32/libopencm3/lib/libopencm3_stm32f1.a(vector.o)
+                0x0000000008000000                vector_table
+ *(.text*)
+ .text.blocking_handler
+                0x0000000008000150        0x2 /tools/stm32/libopencm3/lib/libopencm3_stm32f1.a(vector.o)
+                0x0000000008000150                exti0_isr
+                0x0000000008000150                rtc_isr
+                0x0000000008000150                tim7_isr
+                0x0000000008000150                adc1_2_isr
+                0x0000000008000150                tim1_trg_com_isr
+                0x0000000008000150                usb_hp_can_tx_isr
+                0x0000000008000150                tim6_isr
+                0x0000000008000150                usb_wakeup_isr
+                0x0000000008000150                blocking_handler
+                0x0000000008000150                tim5_isr
+                0x0000000008000150                otg_fs_isr
+                0x0000000008000150                spi1_isr
+                0x0000000008000150                exti2_isr
+                0x0000000008000150                dma1_channel6_isr
+                0x0000000008000150                can_rx1_isr
+                0x0000000008000150                dma1_channel5_isr
+                0x0000000008000150                dma2_channel5_isr
+                0x0000000008000150                usart1_isr
+                0x0000000008000150                usage_fault_handler
+                0x0000000008000150                tim8_trg_com_isr
+                0x0000000008000150                can2_rx0_isr
+                0x0000000008000150                tim1_brk_isr
+                0x0000000008000150                can2_rx1_isr
+                0x0000000008000150                tim1_cc_isr
+                0x0000000008000150                sdio_isr
+                0x0000000008000150                eth_isr
+                0x0000000008000150                dma1_channel4_isr
+                0x0000000008000150                tim8_brk_isr
+                0x0000000008000150                dma2_channel4_5_isr
+                0x0000000008000150                pvd_isr
+                0x0000000008000150                rcc_isr
+                0x0000000008000150                flash_isr
+                0x0000000008000150                uart4_isr
+                0x0000000008000150                rtc_alarm_isr
+                0x0000000008000150                exti15_10_isr
+                0x0000000008000150                hard_fault_handler
+                0x0000000008000150                exti1_isr
+                0x0000000008000150                i2c1_ev_isr
+                0x0000000008000150                dma2_channel1_isr
+                0x0000000008000150                spi2_isr
+                0x0000000008000150                tim8_up_isr
+                0x0000000008000150                dma2_channel2_isr
+                0x0000000008000150                exti3_isr
+                0x0000000008000150                adc3_isr
+                0x0000000008000150                tim3_isr
+                0x0000000008000150                usart2_isr
+                0x0000000008000150                usb_lp_can_rx0_isr
+                0x0000000008000150                i2c2_er_isr
+                0x0000000008000150                i2c2_ev_isr
+                0x0000000008000150                uart5_isr
+                0x0000000008000150                fsmc_isr
+                0x0000000008000150                dma1_channel1_isr
+                0x0000000008000150                exti4_isr
+                0x0000000008000150                mem_manage_handler
+                0x0000000008000150                can2_tx_isr
+                0x0000000008000150                exti9_5_isr
+                0x0000000008000150                dma2_channel3_isr
+                0x0000000008000150                dma1_channel7_isr
+                0x0000000008000150                tim1_up_isr
+                0x0000000008000150                can2_sce_isr
+                0x0000000008000150                tim4_isr
+                0x0000000008000150                dma1_channel2_isr
+                0x0000000008000150                i2c1_er_isr
+                0x0000000008000150                can_sce_isr
+                0x0000000008000150                tim8_cc_isr
+                0x0000000008000150                tamper_isr
+                0x0000000008000150                eth_wkup_isr
+                0x0000000008000150                bus_fault_handler
+                0x0000000008000150                wwdg_isr
+                0x0000000008000150                dma1_channel3_isr
+                0x0000000008000150                spi3_isr
+                0x0000000008000150                tim2_isr
+                0x0000000008000150                usart3_isr
+ .text.null_handler
+                0x0000000008000152        0x2 /tools/stm32/libopencm3/lib/libopencm3_stm32f1.a(vector.o)
+                0x0000000008000152                null_handler
+                0x0000000008000152                sv_call_handler
+                0x0000000008000152                pend_sv_handler
+                0x0000000008000152                debug_monitor_handler
+                0x0000000008000152                sys_tick_handler
+                0x0000000008000152                nmi_handler
+ .text.reset_handler
+                0x0000000008000154       0x90 /tools/stm32/libopencm3/lib/libopencm3_stm32f1.a(vector.o)
+                0x0000000008000154                reset_handler
+                0x00000000080001e4                . = ALIGN (0x4)
+ *(.rodata*)
+                0x00000000080001e4                . = ALIGN (0x4)
+
+.glue_7         0x00000000080001e4        0x0
+ .glue_7        0x00000000080001e4        0x0 linker stubs
+
+.glue_7t        0x00000000080001e4        0x0
+ .glue_7t       0x00000000080001e4        0x0 linker stubs
+
+.vfp11_veneer   0x00000000080001e4        0x0
+ .vfp11_veneer  0x00000000080001e4        0x0 linker stubs
+
+.v4_bx          0x00000000080001e4        0x0
+ .v4_bx         0x00000000080001e4        0x0 linker stubs
+
+.iplt           0x00000000080001e4        0x0
+ .iplt          0x00000000080001e4        0x0 /tools/stm32/libopencm3/lib/libopencm3_stm32f1.a(vector.o)
+
+.rel.dyn        0x00000000080001e4        0x0
+ .rel.iplt      0x00000000080001e4        0x0 /tools/stm32/libopencm3/lib/libopencm3_stm32f1.a(vector.o)
+
+.preinit_array  0x00000000080001e4        0x0
+                0x00000000080001e4                . = ALIGN (0x4)
+                0x00000000080001e4                __preinit_array_start = .
+ *(.preinit_array)
+                0x00000000080001e4                __preinit_array_end = .
+
+.init_array     0x00000000080001e4        0x0
+                0x00000000080001e4                . = ALIGN (0x4)
+                0x00000000080001e4                __init_array_start = .
+ *(SORT(.init_array.*))
+ *(.init_array)
+                0x00000000080001e4                __init_array_end = .
+
+.fini_array     0x00000000080001e4        0x0
+                0x00000000080001e4                . = ALIGN (0x4)
+                0x00000000080001e4                __fini_array_start = .
+ *(.fini_array)
+ *(SORT(.fini_array.*))
+                0x00000000080001e4                __fini_array_end = .
+
+.ARM.extab
+ *(.ARM.extab*)
+
+.ARM.exidx      0x00000000080001e4        0x0
+                0x00000000080001e4                __exidx_start = .
+ *(.ARM.exidx*)
+                0x00000000080001e4                __exidx_end = .
+                0x00000000080001e4                . = ALIGN (0x4)
+                0x00000000080001e4                _etext = .
+
+.data           0x0000000020000000        0x0 load address 0x00000000080001e4
+                0x0000000020000000                _data = .
+ *(.data*)
+                0x0000000020000000                . = ALIGN (0x4)
+                0x0000000020000000                _edata = .
+                0x00000000080001e4                _data_loadaddr = LOADADDR (.data)
+
+.igot.plt       0x0000000020000000        0x0 load address 0x00000000080001e4
+ .igot.plt      0x0000000020000000        0x0 /tools/stm32/libopencm3/lib/libopencm3_stm32f1.a(vector.o)
+
+.bss            0x0000000020000000        0x0 load address 0x00000000080001e4
+ *(.bss*)
+ *(COMMON)
+                0x0000000020000000                . = ALIGN (0x4)
+                0x0000000020000000                _ebss = .
+
+.heap           0x0000000020000000        0x0 load address 0x00000000080001e4
+                0x0000000020000000                . = ALIGN (0x4)
+                0x0000000020000000                . = (. + heap_size)
+                0x0000000020000000                . = ALIGN (0x4)
+
+.stack          0x0000000020000000        0x0 load address 0x00000000080001e4
+                0x0000000020000000                . = ALIGN (0x4)
+                0x0000000020000000                . = (. + stack_size)
+                0x0000000020000000                . = ALIGN (0x4)
+
+/DISCARD/
+ *(.eh_frame)
+                0x0000000020000000                . = ALIGN (0x4)
+                0x0000000020000000                end = .
+                0x0000000020005000                PROVIDE (_stack, (ORIGIN (ram) + LENGTH (ram)))
+OUTPUT(build/thaco-led-matrix-scroll-fw.elf elf32-littlearm)
+
+.debug_info     0x0000000000000000      0x2a8
+ .debug_info    0x0000000000000000      0x2a8 /tools/stm32/libopencm3/lib/libopencm3_stm32f1.a(vector.o)
+
+.debug_abbrev   0x0000000000000000      0x146
+ .debug_abbrev  0x0000000000000000      0x146 /tools/stm32/libopencm3/lib/libopencm3_stm32f1.a(vector.o)
+
+.debug_loc      0x0000000000000000       0xdf
+ .debug_loc     0x0000000000000000       0xdf /tools/stm32/libopencm3/lib/libopencm3_stm32f1.a(vector.o)
+
+.debug_aranges  0x0000000000000000       0x30
+ .debug_aranges
+                0x0000000000000000       0x30 /tools/stm32/libopencm3/lib/libopencm3_stm32f1.a(vector.o)
+
+.debug_ranges   0x0000000000000000       0x20
+ .debug_ranges  0x0000000000000000       0x20 /tools/stm32/libopencm3/lib/libopencm3_stm32f1.a(vector.o)
+
+.debug_macro    0x0000000000000000     0x13ba
+ .debug_macro   0x0000000000000000       0xc1 /tools/stm32/libopencm3/lib/libopencm3_stm32f1.a(vector.o)
+ .debug_macro   0x00000000000000c1      0x874 /tools/stm32/libopencm3/lib/libopencm3_stm32f1.a(vector.o)
+ .debug_macro   0x0000000000000935       0x58 /tools/stm32/libopencm3/lib/libopencm3_stm32f1.a(vector.o)
+ .debug_macro   0x000000000000098d       0x22 /tools/stm32/libopencm3/lib/libopencm3_stm32f1.a(vector.o)
+ .debug_macro   0x00000000000009af       0x44 /tools/stm32/libopencm3/lib/libopencm3_stm32f1.a(vector.o)
+ .debug_macro   0x00000000000009f3       0xfd /tools/stm32/libopencm3/lib/libopencm3_stm32f1.a(vector.o)
+ .debug_macro   0x0000000000000af0       0x22 /tools/stm32/libopencm3/lib/libopencm3_stm32f1.a(vector.o)
+ .debug_macro   0x0000000000000b12      0x1df /tools/stm32/libopencm3/lib/libopencm3_stm32f1.a(vector.o)
+ .debug_macro   0x0000000000000cf1       0x22 /tools/stm32/libopencm3/lib/libopencm3_stm32f1.a(vector.o)
+ .debug_macro   0x0000000000000d13       0xfa /tools/stm32/libopencm3/lib/libopencm3_stm32f1.a(vector.o)
+ .debug_macro   0x0000000000000e0d      0x3a1 /tools/stm32/libopencm3/lib/libopencm3_stm32f1.a(vector.o)
+ .debug_macro   0x00000000000011ae       0x6a /tools/stm32/libopencm3/lib/libopencm3_stm32f1.a(vector.o)
+ .debug_macro   0x0000000000001218      0x1a2 /tools/stm32/libopencm3/lib/libopencm3_stm32f1.a(vector.o)
+
+.debug_line     0x0000000000000000      0x32f
+ .debug_line    0x0000000000000000      0x32f /tools/stm32/libopencm3/lib/libopencm3_stm32f1.a(vector.o)
+
+.debug_str      0x0000000000000000     0x59ff
+ .debug_str     0x0000000000000000     0x59ff /tools/stm32/libopencm3/lib/libopencm3_stm32f1.a(vector.o)
+                                       0x5b68 (size before relaxing)
+
+.comment        0x0000000000000000       0x6e
+ .comment       0x0000000000000000       0x6e /tools/stm32/libopencm3/lib/libopencm3_stm32f1.a(vector.o)
+                                         0x6f (size before relaxing)
+
+.ARM.attributes
+                0x0000000000000000       0x33
+ .ARM.attributes
+                0x0000000000000000       0x33 /tools/stm32/libopencm3/lib/libopencm3_stm32f1.a(vector.o)
+
+.debug_frame    0x0000000000000000       0x40
+ .debug_frame   0x0000000000000000       0x40 /tools/stm32/libopencm3/lib/libopencm3_stm32f1.a(vector.o)
