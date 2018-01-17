@@ -1,2 +1,8 @@
-# Timer-RTC-STM32-Tm1638
-Timer-RTC-STM32-Tm1638
+# Timer-control-boar-hw
+
+- Timer-control-board-hw
+
+![board](assets/control-board-hw.png)
+
+
+![board](assets/control-board-hw-bot.png)
